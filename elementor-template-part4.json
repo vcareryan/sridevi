@@ -2,19 +2,40 @@
   "title": "Sridevi Bunglow Films - Gallery + Testimonials",
   "type": "page",
   "version": "0.4",
-  "page_settings": {},
+  "page_settings": {
+    "template": "elementor_canvas",
+    "background_background": "classic",
+    "background_color": "#0B0B0B"
+  },
   "content": [
     {
       "id": "gal001",
       "elType": "container",
       "settings": {
         "content_width": "boxed",
-        "boxed_width": {"unit":"px","size":1400},
+        "boxed_width": {
+          "unit": "px",
+          "size": 1400
+        },
         "flex_direction": "column",
         "flex_align_items": "center",
-        "padding": {"unit":"px","top":"120","right":"40","bottom":"120","left":"40","isLinked":false},
+        "padding": {
+          "unit": "px",
+          "top": "120",
+          "right": "40",
+          "bottom": "120",
+          "left": "40",
+          "isLinked": false
+        },
         "background_background": "classic",
-        "background_color": "#0B0B0B"
+        "background_color": "#0B0B0B",
+        "container_type": "flex",
+        "_element_width": "auto",
+        "hide_desktop": "",
+        "hide_tablet": "",
+        "hide_mobile": "",
+        "overflow": "visible",
+        "z_index": ""
       },
       "elements": [
         {
@@ -28,9 +49,18 @@
             "title_color": "#FFFFFF",
             "typography_typography": "custom",
             "typography_font_family": "Cinzel",
-            "typography_font_size": {"unit":"px","size":42},
-            "typography_font_size_tablet": {"unit":"px","size":32},
-            "typography_font_size_mobile": {"unit":"px","size":26},
+            "typography_font_size": {
+              "unit": "px",
+              "size": 42
+            },
+            "typography_font_size_tablet": {
+              "unit": "px",
+              "size": 32
+            },
+            "typography_font_size_mobile": {
+              "unit": "px",
+              "size": 26
+            },
             "typography_font_weight": "700"
           },
           "elements": []
@@ -42,26 +72,70 @@
           "settings": {
             "gallery_type": "multiple",
             "gallery": [
-              {"id":"g1","url":"https://via.placeholder.com/600x400/1a1a1a/C8A24A?text=BTS+1"},
-              {"id":"g2","url":"https://via.placeholder.com/600x600/1a1a1a/C8A24A?text=BTS+2"},
-              {"id":"g3","url":"https://via.placeholder.com/600x500/1a1a1a/C8A24A?text=BTS+3"},
-              {"id":"g4","url":"https://via.placeholder.com/600x700/1a1a1a/C8A24A?text=BTS+4"},
-              {"id":"g5","url":"https://via.placeholder.com/600x450/1a1a1a/C8A24A?text=BTS+5"},
-              {"id":"g6","url":"https://via.placeholder.com/600x550/1a1a1a/C8A24A?text=BTS+6"},
-              {"id":"g7","url":"https://via.placeholder.com/600x650/1a1a1a/C8A24A?text=BTS+7"},
-              {"id":"g8","url":"https://via.placeholder.com/600x400/1a1a1a/C8A24A?text=BTS+8"},
-              {"id":"g9","url":"https://via.placeholder.com/600x500/1a1a1a/C8A24A?text=BTS+9"}
+              {
+                "id": "g1",
+                "url": "https://via.placeholder.com/600x400/1a1a1a/C8A24A?text=BTS+1"
+              },
+              {
+                "id": "g2",
+                "url": "https://via.placeholder.com/600x600/1a1a1a/C8A24A?text=BTS+2"
+              },
+              {
+                "id": "g3",
+                "url": "https://via.placeholder.com/600x500/1a1a1a/C8A24A?text=BTS+3"
+              },
+              {
+                "id": "g4",
+                "url": "https://via.placeholder.com/600x700/1a1a1a/C8A24A?text=BTS+4"
+              },
+              {
+                "id": "g5",
+                "url": "https://via.placeholder.com/600x450/1a1a1a/C8A24A?text=BTS+5"
+              },
+              {
+                "id": "g6",
+                "url": "https://via.placeholder.com/600x550/1a1a1a/C8A24A?text=BTS+6"
+              },
+              {
+                "id": "g7",
+                "url": "https://via.placeholder.com/600x650/1a1a1a/C8A24A?text=BTS+7"
+              },
+              {
+                "id": "g8",
+                "url": "https://via.placeholder.com/600x400/1a1a1a/C8A24A?text=BTS+8"
+              },
+              {
+                "id": "g9",
+                "url": "https://via.placeholder.com/600x500/1a1a1a/C8A24A?text=BTS+9"
+              }
             ],
             "columns": 3,
             "columns_tablet": 2,
             "columns_mobile": 1,
-            "gap": {"unit":"px","size":15},
+            "gap": {
+              "unit": "px",
+              "size": 15
+            },
             "gallery_layout": "masonry",
             "open_lightbox": "yes",
             "show_caption": "no",
-            "image_border_radius": {"unit":"px","top":"15","right":"15","bottom":"15","left":"15","isLinked":true},
+            "image_border_radius": {
+              "unit": "px",
+              "top": "15",
+              "right": "15",
+              "bottom": "15",
+              "left": "15",
+              "isLinked": true
+            },
             "image_hover_animation": "grow",
-            "_margin": {"unit":"px","top":"60","right":"0","bottom":"0","left":"0","isLinked":false},
+            "_margin": {
+              "unit": "px",
+              "top": "60",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            },
             "_animation": "fadeInUp",
             "_animation_delay": 200
           },
@@ -74,12 +148,29 @@
       "elType": "container",
       "settings": {
         "content_width": "boxed",
-        "boxed_width": {"unit":"px","size":1400},
+        "boxed_width": {
+          "unit": "px",
+          "size": 1400
+        },
         "flex_direction": "column",
         "flex_align_items": "center",
-        "padding": {"unit":"px","top":"120","right":"40","bottom":"120","left":"40","isLinked":false},
+        "padding": {
+          "unit": "px",
+          "top": "120",
+          "right": "40",
+          "bottom": "120",
+          "left": "40",
+          "isLinked": false
+        },
         "background_background": "classic",
-        "background_color": "#0a0a0a"
+        "background_color": "#0a0a0a",
+        "container_type": "flex",
+        "_element_width": "auto",
+        "hide_desktop": "",
+        "hide_tablet": "",
+        "hide_mobile": "",
+        "overflow": "visible",
+        "z_index": ""
       },
       "elements": [
         {
@@ -93,9 +184,18 @@
             "title_color": "#FFFFFF",
             "typography_typography": "custom",
             "typography_font_family": "Cinzel",
-            "typography_font_size": {"unit":"px","size":42},
-            "typography_font_size_tablet": {"unit":"px","size":32},
-            "typography_font_size_mobile": {"unit":"px","size":26},
+            "typography_font_size": {
+              "unit": "px",
+              "size": 42
+            },
+            "typography_font_size_tablet": {
+              "unit": "px",
+              "size": 32
+            },
+            "typography_font_size_mobile": {
+              "unit": "px",
+              "size": 26
+            },
             "typography_font_weight": "700"
           },
           "elements": []
@@ -106,8 +206,24 @@
           "settings": {
             "content_width": "full",
             "flex_direction": "row",
-            "flex_gap": {"unit":"px","size":30},
-            "margin": {"unit":"px","top":"60","right":"0","bottom":"0","left":"0","isLinked":false}
+            "flex_gap": {
+              "unit": "px",
+              "size": 30
+            },
+            "margin": {
+              "unit": "px",
+              "top": "60",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            },
+            "container_type": "flex",
+            "_element_width": "auto",
+            "hide_desktop": "",
+            "hide_tablet": "",
+            "hide_mobile": "",
+            "overflow": "visible"
           },
           "elements": [
             {
@@ -117,22 +233,155 @@
                 "content_width": "full",
                 "flex_direction": "column",
                 "flex_align_items": "center",
-                "padding": {"unit":"px","top":"40","right":"30","bottom":"40","left":"30","isLinked":false},
+                "padding": {
+                  "unit": "px",
+                  "top": "40",
+                  "right": "30",
+                  "bottom": "40",
+                  "left": "30",
+                  "isLinked": false
+                },
                 "background_background": "classic",
                 "background_color": "rgba(255,255,255,0.03)",
                 "border_border": "solid",
-                "border_width": {"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
                 "border_color": "rgba(200,162,74,0.15)",
-                "border_radius": {"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":true},
+                "border_radius": {
+                  "unit": "px",
+                  "top": "20",
+                  "right": "20",
+                  "bottom": "20",
+                  "left": "20",
+                  "isLinked": true
+                },
                 "_animation": "fadeInUp",
-                "_animation_delay": 200
+                "_animation_delay": 200,
+                "container_type": "flex",
+                "_element_width": "auto",
+                "hide_desktop": "",
+                "hide_tablet": "",
+                "hide_mobile": "",
+                "overflow": "visible"
               },
               "elements": [
-                {"id":"tst005","elType":"widget","widgetType":"icon","settings":{"selected_icon":{"value":"fas fa-quote-left","library":"fa-solid"},"view":"default","primary_color":"#C8A24A","icon_size":{"unit":"px","size":28}},"elements":[]},
-                {"id":"tst006","elType":"widget","widgetType":"text-editor","settings":{"editor":"A production house that truly understands the art of storytelling. Their commitment to quality and vision is unmatched in the industry.","align":"center","text_color":"#D8D8D8","typography_typography":"custom","typography_font_family":"Poppins","typography_font_size":{"unit":"px","size":15},"typography_font_style":"italic","typography_line_height":{"unit":"em","size":1.8},"_margin":{"unit":"px","top":"20","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[]},
-                {"id":"tst007","elType":"widget","widgetType":"image","settings":{"image":{"url":"https://via.placeholder.com/60x60/C8A24A/0B0B0B?text=JD","id":""},"image_size":"thumbnail","width":{"unit":"px","size":60},"border_radius":{"unit":"px","top":"50","right":"50","bottom":"50","left":"50","isLinked":true}},"elements":[]},
-                {"id":"tst008","elType":"widget","widgetType":"heading","settings":{"title":"Industry Critic","header_size":"h5","align":"center","title_color":"#FFFFFF","typography_typography":"custom","typography_font_family":"Cinzel","typography_font_size":{"unit":"px","size":15},"typography_font_weight":"600"},"elements":[]},
-                {"id":"tst009","elType":"widget","widgetType":"heading","settings":{"title":"Film Journalist","header_size":"h6","align":"center","title_color":"#C8A24A","typography_typography":"custom","typography_font_family":"Poppins","typography_font_size":{"unit":"px","size":12},"typography_font_weight":"400"},"elements":[]}
+                {
+                  "id": "tst005",
+                  "elType": "widget",
+                  "widgetType": "icon",
+                  "settings": {
+                    "selected_icon": {
+                      "value": "fas fa-quote-left",
+                      "library": "fa-solid"
+                    },
+                    "view": "default",
+                    "primary_color": "#C8A24A",
+                    "icon_size": {
+                      "unit": "px",
+                      "size": 28
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "tst006",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "A production house that truly understands the art of storytelling. Their commitment to quality and vision is unmatched in the industry.",
+                    "align": "center",
+                    "text_color": "#D8D8D8",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Poppins",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 15
+                    },
+                    "typography_font_style": "italic",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.8
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "20",
+                      "right": "0",
+                      "bottom": "20",
+                      "left": "0",
+                      "isLinked": false
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "tst007",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "settings": {
+                    "image": {
+                      "url": "https://via.placeholder.com/60x60/C8A24A/0B0B0B?text=JD",
+                      "id": ""
+                    },
+                    "image_size": "thumbnail",
+                    "width": {
+                      "unit": "px",
+                      "size": 60
+                    },
+                    "border_radius": {
+                      "unit": "px",
+                      "top": "50",
+                      "right": "50",
+                      "bottom": "50",
+                      "left": "50",
+                      "isLinked": true
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "tst008",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Industry Critic",
+                    "header_size": "h5",
+                    "align": "center",
+                    "title_color": "#FFFFFF",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cinzel",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 15
+                    },
+                    "typography_font_weight": "600"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "tst009",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Film Journalist",
+                    "header_size": "h6",
+                    "align": "center",
+                    "title_color": "#C8A24A",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Poppins",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 12
+                    },
+                    "typography_font_weight": "400"
+                  },
+                  "elements": []
+                }
               ]
             },
             {
@@ -142,22 +391,155 @@
                 "content_width": "full",
                 "flex_direction": "column",
                 "flex_align_items": "center",
-                "padding": {"unit":"px","top":"40","right":"30","bottom":"40","left":"30","isLinked":false},
+                "padding": {
+                  "unit": "px",
+                  "top": "40",
+                  "right": "30",
+                  "bottom": "40",
+                  "left": "30",
+                  "isLinked": false
+                },
                 "background_background": "classic",
                 "background_color": "rgba(255,255,255,0.03)",
                 "border_border": "solid",
-                "border_width": {"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
                 "border_color": "rgba(200,162,74,0.15)",
-                "border_radius": {"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":true},
+                "border_radius": {
+                  "unit": "px",
+                  "top": "20",
+                  "right": "20",
+                  "bottom": "20",
+                  "left": "20",
+                  "isLinked": true
+                },
                 "_animation": "fadeInUp",
-                "_animation_delay": 400
+                "_animation_delay": 400,
+                "container_type": "flex",
+                "_element_width": "auto",
+                "hide_desktop": "",
+                "hide_tablet": "",
+                "hide_mobile": "",
+                "overflow": "visible"
               },
               "elements": [
-                {"id":"tst011","elType":"widget","widgetType":"icon","settings":{"selected_icon":{"value":"fas fa-quote-left","library":"fa-solid"},"view":"default","primary_color":"#C8A24A","icon_size":{"unit":"px","size":28}},"elements":[]},
-                {"id":"tst012","elType":"widget","widgetType":"text-editor","settings":{"editor":"Working with Sridevi Bunglow Films has been an incredible experience. Their professionalism and creative vision set them apart from the rest.","align":"center","text_color":"#D8D8D8","typography_typography":"custom","typography_font_family":"Poppins","typography_font_size":{"unit":"px","size":15},"typography_font_style":"italic","typography_line_height":{"unit":"em","size":1.8},"_margin":{"unit":"px","top":"20","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[]},
-                {"id":"tst013","elType":"widget","widgetType":"image","settings":{"image":{"url":"https://via.placeholder.com/60x60/C8A24A/0B0B0B?text=RK","id":""},"image_size":"thumbnail","width":{"unit":"px","size":60},"border_radius":{"unit":"px","top":"50","right":"50","bottom":"50","left":"50","isLinked":true}},"elements":[]},
-                {"id":"tst014","elType":"widget","widgetType":"heading","settings":{"title":"Leading Actor","header_size":"h5","align":"center","title_color":"#FFFFFF","typography_typography":"custom","typography_font_family":"Cinzel","typography_font_size":{"unit":"px","size":15},"typography_font_weight":"600"},"elements":[]},
-                {"id":"tst015","elType":"widget","widgetType":"heading","settings":{"title":"Bollywood Artist","header_size":"h6","align":"center","title_color":"#C8A24A","typography_typography":"custom","typography_font_family":"Poppins","typography_font_size":{"unit":"px","size":12},"typography_font_weight":"400"},"elements":[]}
+                {
+                  "id": "tst011",
+                  "elType": "widget",
+                  "widgetType": "icon",
+                  "settings": {
+                    "selected_icon": {
+                      "value": "fas fa-quote-left",
+                      "library": "fa-solid"
+                    },
+                    "view": "default",
+                    "primary_color": "#C8A24A",
+                    "icon_size": {
+                      "unit": "px",
+                      "size": 28
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "tst012",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "Working with Sridevi Bunglow Films has been an incredible experience. Their professionalism and creative vision set them apart from the rest.",
+                    "align": "center",
+                    "text_color": "#D8D8D8",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Poppins",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 15
+                    },
+                    "typography_font_style": "italic",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.8
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "20",
+                      "right": "0",
+                      "bottom": "20",
+                      "left": "0",
+                      "isLinked": false
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "tst013",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "settings": {
+                    "image": {
+                      "url": "https://via.placeholder.com/60x60/C8A24A/0B0B0B?text=RK",
+                      "id": ""
+                    },
+                    "image_size": "thumbnail",
+                    "width": {
+                      "unit": "px",
+                      "size": 60
+                    },
+                    "border_radius": {
+                      "unit": "px",
+                      "top": "50",
+                      "right": "50",
+                      "bottom": "50",
+                      "left": "50",
+                      "isLinked": true
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "tst014",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Leading Actor",
+                    "header_size": "h5",
+                    "align": "center",
+                    "title_color": "#FFFFFF",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cinzel",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 15
+                    },
+                    "typography_font_weight": "600"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "tst015",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Bollywood Artist",
+                    "header_size": "h6",
+                    "align": "center",
+                    "title_color": "#C8A24A",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Poppins",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 12
+                    },
+                    "typography_font_weight": "400"
+                  },
+                  "elements": []
+                }
               ]
             },
             {
@@ -167,22 +549,155 @@
                 "content_width": "full",
                 "flex_direction": "column",
                 "flex_align_items": "center",
-                "padding": {"unit":"px","top":"40","right":"30","bottom":"40","left":"30","isLinked":false},
+                "padding": {
+                  "unit": "px",
+                  "top": "40",
+                  "right": "30",
+                  "bottom": "40",
+                  "left": "30",
+                  "isLinked": false
+                },
                 "background_background": "classic",
                 "background_color": "rgba(255,255,255,0.03)",
                 "border_border": "solid",
-                "border_width": {"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
                 "border_color": "rgba(200,162,74,0.15)",
-                "border_radius": {"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":true},
+                "border_radius": {
+                  "unit": "px",
+                  "top": "20",
+                  "right": "20",
+                  "bottom": "20",
+                  "left": "20",
+                  "isLinked": true
+                },
                 "_animation": "fadeInUp",
-                "_animation_delay": 600
+                "_animation_delay": 600,
+                "container_type": "flex",
+                "_element_width": "auto",
+                "hide_desktop": "",
+                "hide_tablet": "",
+                "hide_mobile": "",
+                "overflow": "visible"
               },
               "elements": [
-                {"id":"tst017","elType":"widget","widgetType":"icon","settings":{"selected_icon":{"value":"fas fa-quote-left","library":"fa-solid"},"view":"default","primary_color":"#C8A24A","icon_size":{"unit":"px","size":28}},"elements":[]},
-                {"id":"tst018","elType":"widget","widgetType":"text-editor","settings":{"editor":"The attention to detail and the passion for cinema is evident in every frame. Sridevi Bunglow Films is redefining independent filmmaking in India.","align":"center","text_color":"#D8D8D8","typography_typography":"custom","typography_font_family":"Poppins","typography_font_size":{"unit":"px","size":15},"typography_font_style":"italic","typography_line_height":{"unit":"em","size":1.8},"_margin":{"unit":"px","top":"20","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[]},
-                {"id":"tst019","elType":"widget","widgetType":"image","settings":{"image":{"url":"https://via.placeholder.com/60x60/C8A24A/0B0B0B?text=PM","id":""},"image_size":"thumbnail","width":{"unit":"px","size":60},"border_radius":{"unit":"px","top":"50","right":"50","bottom":"50","left":"50","isLinked":true}},"elements":[]},
-                {"id":"tst020","elType":"widget","widgetType":"heading","settings":{"title":"Film Director","header_size":"h5","align":"center","title_color":"#FFFFFF","typography_typography":"custom","typography_font_family":"Cinzel","typography_font_size":{"unit":"px","size":15},"typography_font_weight":"600"},"elements":[]},
-                {"id":"tst021","elType":"widget","widgetType":"heading","settings":{"title":"Award-Winning Filmmaker","header_size":"h6","align":"center","title_color":"#C8A24A","typography_typography":"custom","typography_font_family":"Poppins","typography_font_size":{"unit":"px","size":12},"typography_font_weight":"400"},"elements":[]}
+                {
+                  "id": "tst017",
+                  "elType": "widget",
+                  "widgetType": "icon",
+                  "settings": {
+                    "selected_icon": {
+                      "value": "fas fa-quote-left",
+                      "library": "fa-solid"
+                    },
+                    "view": "default",
+                    "primary_color": "#C8A24A",
+                    "icon_size": {
+                      "unit": "px",
+                      "size": 28
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "tst018",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "The attention to detail and the passion for cinema is evident in every frame. Sridevi Bunglow Films is redefining independent filmmaking in India.",
+                    "align": "center",
+                    "text_color": "#D8D8D8",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Poppins",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 15
+                    },
+                    "typography_font_style": "italic",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.8
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "20",
+                      "right": "0",
+                      "bottom": "20",
+                      "left": "0",
+                      "isLinked": false
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "tst019",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "settings": {
+                    "image": {
+                      "url": "https://via.placeholder.com/60x60/C8A24A/0B0B0B?text=PM",
+                      "id": ""
+                    },
+                    "image_size": "thumbnail",
+                    "width": {
+                      "unit": "px",
+                      "size": 60
+                    },
+                    "border_radius": {
+                      "unit": "px",
+                      "top": "50",
+                      "right": "50",
+                      "bottom": "50",
+                      "left": "50",
+                      "isLinked": true
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "tst020",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Film Director",
+                    "header_size": "h5",
+                    "align": "center",
+                    "title_color": "#FFFFFF",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cinzel",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 15
+                    },
+                    "typography_font_weight": "600"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "tst021",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Award-Winning Filmmaker",
+                    "header_size": "h6",
+                    "align": "center",
+                    "title_color": "#C8A24A",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Poppins",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 12
+                    },
+                    "typography_font_weight": "400"
+                  },
+                  "elements": []
+                }
               ]
             }
           ]
