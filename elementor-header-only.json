@@ -34,16 +34,7 @@
         },
         "background_background": "classic",
         "background_color": "transparent",
-        "position": "fixed",
-        "position_offset_x": {
-          "unit": "px",
-          "size": 0
-        },
-        "position_offset_y": {
-          "unit": "px",
-          "size": 0
-        },
-        "z_index": 999,
+        "position": "relative",
         "width": {
           "unit": "%",
           "size": 100
