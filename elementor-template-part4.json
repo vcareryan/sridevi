@@ -159,8 +159,6 @@
               "left": "0",
               "isLinked": false
             },
-            "_animation": "fadeInUp",
-            "_animation_delay": 200,
             "_element_width": "initial",
             "_element_custom_width": {
               "size": 100,
@@ -313,8 +311,6 @@
                   "left": "20",
                   "isLinked": true
                 },
-                "_animation": "fadeInUp",
-                "_animation_delay": 200,
                 "container_type": "flex",
                 "_element_width": "auto",
                 "hide_desktop": "",
@@ -509,8 +505,6 @@
                   "left": "20",
                   "isLinked": true
                 },
-                "_animation": "fadeInUp",
-                "_animation_delay": 400,
                 "container_type": "flex",
                 "_element_width": "auto",
                 "hide_desktop": "",
@@ -705,8 +699,6 @@
                   "left": "20",
                   "isLinked": true
                 },
-                "_animation": "fadeInUp",
-                "_animation_delay": 600,
                 "container_type": "flex",
                 "_element_width": "auto",
                 "hide_desktop": "",

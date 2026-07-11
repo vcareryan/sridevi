@@ -325,8 +325,6 @@
               "unit": "px",
               "size": 25
             },
-            "_animation": "fadeInLeft",
-            "_animation_delay": 300,
             "container_type": "flex",
             "_element_width": "auto",
             "hide_desktop": "",
@@ -595,8 +593,6 @@
             },
             "flex_direction": "column",
             "flex_align_items": "center",
-            "_animation": "fadeInRight",
-            "_animation_delay": 500,
             "container_type": "flex",
             "_element_width": "auto",
             "hide_desktop": "",

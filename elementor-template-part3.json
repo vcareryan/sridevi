@@ -69,8 +69,6 @@
               "unit": "%",
               "size": 45
             },
-            "_animation": "fadeInLeft",
-            "_animation_delay": 200,
             "container_type": "flex",
             "_element_width": "auto",
             "hide_desktop": "",
@@ -144,8 +142,6 @@
               "unit": "px",
               "size": 25
             },
-            "_animation": "fadeInRight",
-            "_animation_delay": 400,
             "container_type": "flex",
             "_element_width": "auto",
             "hide_desktop": "",
@@ -801,8 +797,6 @@
                   "unit": "px",
                   "size": 1.02
                 },
-                "_animation": "fadeInUp",
-                "_animation_delay": 200,
                 "container_type": "flex",
                 "_element_width": "auto",
                 "hide_desktop": "",
@@ -992,8 +986,6 @@
                   "unit": "px",
                   "size": 1.02
                 },
-                "_animation": "fadeInUp",
-                "_animation_delay": 400,
                 "container_type": "flex",
                 "_element_width": "auto",
                 "hide_desktop": "",
@@ -1183,8 +1175,6 @@
                   "unit": "px",
                   "size": 1.02
                 },
-                "_animation": "fadeInUp",
-                "_animation_delay": 600,
                 "container_type": "flex",
                 "_element_width": "auto",
                 "hide_desktop": "",
