@@ -1,0 +1,625 @@
+{
+  "title": "Sridevi Bunglow Films - Header + Hero",
+  "type": "page",
+  "version": "0.4",
+  "page_settings": {
+    "hide_title": "yes",
+    "template": "elementor_canvas"
+  },
+  "content": [
+    {
+      "id": "hdr001",
+      "elType": "container",
+      "settings": {
+        "content_width": "full",
+        "flex_direction": "row",
+        "flex_justify_content": "space-between",
+        "flex_align_items": "center",
+        "padding": {
+          "unit": "px",
+          "top": "20",
+          "right": "60",
+          "bottom": "20",
+          "left": "60",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "transparent",
+        "position": "fixed",
+        "z_index": 1000,
+        "width": {
+          "unit": "%",
+          "size": 100
+        },
+        "_element_custom_width": {
+          "unit": "%",
+          "size": 100
+        },
+        "sticky": "top",
+        "sticky_on": ["desktop", "tablet", "mobile"],
+        "sticky_offset": 0,
+        "motion_fx_motion_fx_scrolling": "yes",
+        "background_color_sticky": "#0B0B0B"
+      },
+      "elements": [
+        {
+          "id": "hdr002",
+          "elType": "container",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_align_items": "center",
+            "flex_gap": {
+              "unit": "px",
+              "size": 10
+            }
+          },
+          "elements": [
+            {
+              "id": "hdr003",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": {
+                  "url": "https://via.placeholder.com/180x50/0B0B0B/C8A24A?text=SBF+Logo",
+                  "id": ""
+                },
+                "image_size": "full",
+                "width": {
+                  "unit": "px",
+                  "size": 180
+                }
+              },
+              "elements": []
+            }
+          ]
+        },
+        {
+          "id": "hdr004",
+          "elType": "container",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_align_items": "center",
+            "flex_gap": {
+              "unit": "px",
+              "size": 40
+            }
+          },
+          "elements": [
+            {
+              "id": "hdr005",
+              "elType": "widget",
+              "widgetType": "nav-menu",
+              "settings": {
+                "menu": "main-menu",
+                "layout": "horizontal",
+                "align_items": "center",
+                "pointer": "underline",
+                "animation_line": "fade",
+                "toggle": "burger",
+                "text_color": "#FFFFFF",
+                "color_menu_item_hover": "#C8A24A",
+                "color_menu_item_active": "#C8A24A",
+                "typography_menu_item_typography": "custom",
+                "typography_menu_item_font_family": "Poppins",
+                "typography_menu_item_font_size": {
+                  "unit": "px",
+                  "size": 14
+                },
+                "typography_menu_item_font_weight": "500",
+                "typography_menu_item_text_transform": "uppercase",
+                "typography_menu_item_letter_spacing": {
+                  "unit": "px",
+                  "size": 1.5
+                },
+                "menu_items": ["Home", "About", "Films", "Media", "Gallery", "Founder", "Contact"]
+              },
+              "elements": []
+            },
+            {
+              "id": "hdr006",
+              "elType": "widget",
+              "widgetType": "button",
+              "settings": {
+                "text": "Watch Trailer",
+                "size": "sm",
+                "typography_typography": "custom",
+                "typography_font_family": "Poppins",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 13
+                },
+                "typography_font_weight": "600",
+                "typography_text_transform": "uppercase",
+                "typography_letter_spacing": {
+                  "unit": "px",
+                  "size": 1
+                },
+                "button_text_color": "#0B0B0B",
+                "background_color": "#C8A24A",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "30",
+                  "right": "30",
+                  "bottom": "30",
+                  "left": "30",
+                  "isLinked": true
+                },
+                "button_padding": {
+                  "unit": "px",
+                  "top": "12",
+                  "right": "28",
+                  "bottom": "12",
+                  "left": "28",
+                  "isLinked": false
+                },
+                "hover_color": "#FFFFFF",
+                "button_background_hover_color": "#0B0B0B",
+                "button_border_hover_color": "#C8A24A",
+                "button_hover_border_type": "solid",
+                "button_hover_border_width": {
+                  "unit": "px",
+                  "top": "2",
+                  "right": "2",
+                  "bottom": "2",
+                  "left": "2",
+                  "isLinked": true
+                }
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hero001",
+      "elType": "container",
+      "settings": {
+        "content_width": "full",
+        "min_height": {
+          "unit": "vh",
+          "size": 100
+        },
+        "flex_direction": "row",
+        "flex_justify_content": "space-between",
+        "flex_align_items": "center",
+        "padding": {
+          "unit": "px",
+          "top": "120",
+          "right": "80",
+          "bottom": "120",
+          "left": "80",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_image": {
+          "url": "https://via.placeholder.com/1920x1080/0B0B0B/1a1a1a?text=Cinematic+Background",
+          "id": ""
+        },
+        "background_size": "cover",
+        "background_position": "center center",
+        "background_overlay_background": "classic",
+        "background_overlay_color": "#000000",
+        "background_overlay_opacity": {
+          "unit": "px",
+          "size": 0.6
+        }
+      },
+      "elements": [
+        {
+          "id": "hero002",
+          "elType": "container",
+          "settings": {
+            "content_width": "full",
+            "width": {
+              "unit": "%",
+              "size": 55
+            },
+            "flex_direction": "column",
+            "flex_gap": {
+              "unit": "px",
+              "size": 25
+            },
+            "_animation": "fadeInLeft",
+            "_animation_delay": 300
+          },
+          "elements": [
+            {
+              "id": "hero003",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "FILM PRODUCTION HOUSE",
+                "header_size": "h6",
+                "title_color": "#C8A24A",
+                "typography_typography": "custom",
+                "typography_font_family": "Poppins",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 14
+                },
+                "typography_font_weight": "600",
+                "typography_text_transform": "uppercase",
+                "typography_letter_spacing": {
+                  "unit": "px",
+                  "size": 5
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "hero004",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "SRIDEVI\nBUNGLOW FILMS",
+                "header_size": "h1",
+                "title_color": "#FFFFFF",
+                "typography_typography": "custom",
+                "typography_font_family": "Cinzel",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 72
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 52
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 36
+                },
+                "typography_font_weight": "700",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.1
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "hero005",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p style=\"font-size:18px;line-height:1.8;color:#D8D8D8;font-family:Poppins;\"><strong>Stories That Stay Forever.</strong></p><p style=\"font-size:16px;line-height:1.8;color:#D8D8D8;font-family:Poppins;\">Creating unforgettable cinema through powerful storytelling, visionary filmmaking and world-class production.</p>",
+                "text_color": "#D8D8D8",
+                "typography_typography": "custom",
+                "typography_font_family": "Poppins",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 16
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.8
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "hero006",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "row",
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 20
+                }
+              },
+              "elements": [
+                {
+                  "id": "hero007",
+                  "elType": "widget",
+                  "widgetType": "button",
+                  "settings": {
+                    "text": "Explore Films",
+                    "size": "md",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Poppins",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 14
+                    },
+                    "typography_font_weight": "600",
+                    "typography_text_transform": "uppercase",
+                    "typography_letter_spacing": {
+                      "unit": "px",
+                      "size": 1
+                    },
+                    "button_text_color": "#0B0B0B",
+                    "background_color": "#C8A24A",
+                    "border_radius": {
+                      "unit": "px",
+                      "top": "30",
+                      "right": "30",
+                      "bottom": "30",
+                      "left": "30",
+                      "isLinked": true
+                    },
+                    "button_padding": {
+                      "unit": "px",
+                      "top": "16",
+                      "right": "36",
+                      "bottom": "16",
+                      "left": "36",
+                      "isLinked": false
+                    },
+                    "hover_color": "#FFFFFF",
+                    "button_background_hover_color": "transparent",
+                    "button_border_hover_color": "#C8A24A",
+                    "button_hover_border_type": "solid",
+                    "button_hover_border_width": {
+                      "unit": "px",
+                      "top": "2",
+                      "right": "2",
+                      "bottom": "2",
+                      "left": "2",
+                      "isLinked": true
+                    },
+                    "_hover_transition_duration": 300
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "hero008",
+                  "elType": "widget",
+                  "widgetType": "button",
+                  "settings": {
+                    "text": "Meet The Producer",
+                    "size": "md",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Poppins",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 14
+                    },
+                    "typography_font_weight": "600",
+                    "typography_text_transform": "uppercase",
+                    "typography_letter_spacing": {
+                      "unit": "px",
+                      "size": 1
+                    },
+                    "button_text_color": "#FFFFFF",
+                    "background_color": "transparent",
+                    "border_border": "solid",
+                    "border_width": {
+                      "unit": "px",
+                      "top": "2",
+                      "right": "2",
+                      "bottom": "2",
+                      "left": "2",
+                      "isLinked": true
+                    },
+                    "border_color": "#C8A24A",
+                    "border_radius": {
+                      "unit": "px",
+                      "top": "30",
+                      "right": "30",
+                      "bottom": "30",
+                      "left": "30",
+                      "isLinked": true
+                    },
+                    "button_padding": {
+                      "unit": "px",
+                      "top": "16",
+                      "right": "36",
+                      "bottom": "16",
+                      "left": "36",
+                      "isLinked": false
+                    },
+                    "hover_color": "#0B0B0B",
+                    "button_background_hover_color": "#C8A24A",
+                    "_hover_transition_duration": 300
+                  },
+                  "elements": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "hero009",
+          "elType": "container",
+          "settings": {
+            "content_width": "full",
+            "width": {
+              "unit": "%",
+              "size": 40
+            },
+            "flex_direction": "column",
+            "flex_align_items": "center",
+            "_animation": "fadeInRight",
+            "_animation_delay": 500
+          },
+          "elements": [
+            {
+              "id": "hero010",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "position": "relative"
+              },
+              "elements": [
+                {
+                  "id": "hero011",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "settings": {
+                    "image": {
+                      "url": "https://via.placeholder.com/450x650/1a1a1a/C8A24A?text=Movie+Poster",
+                      "id": ""
+                    },
+                    "image_size": "full",
+                    "width": {
+                      "unit": "%",
+                      "size": 100
+                    },
+                    "border_radius": {
+                      "unit": "px",
+                      "top": "20",
+                      "right": "20",
+                      "bottom": "20",
+                      "left": "20",
+                      "isLinked": true
+                    },
+                    "_box_shadow_box_shadow_type": "yes",
+                    "_box_shadow_box_shadow": {
+                      "horizontal": 0,
+                      "vertical": 20,
+                      "blur": 60,
+                      "spread": 0,
+                      "color": "rgba(200, 162, 74, 0.15)"
+                    },
+                    "motion_fx_motion_fx_scrolling": "yes",
+                    "motion_fx_translateY_effect": "yes",
+                    "motion_fx_translateY_speed": {
+                      "unit": "px",
+                      "size": 2
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "hero012",
+                  "elType": "widget",
+                  "widgetType": "icon",
+                  "settings": {
+                    "selected_icon": {
+                      "value": "fas fa-play",
+                      "library": "fa-solid"
+                    },
+                    "view": "stacked",
+                    "shape": "circle",
+                    "primary_color": "#C8A24A",
+                    "secondary_color": "#0B0B0B",
+                    "icon_size": {
+                      "unit": "px",
+                      "size": 24
+                    },
+                    "_position": "absolute",
+                    "_offset_x": {
+                      "unit": "%",
+                      "size": 50
+                    },
+                    "_offset_y": {
+                      "unit": "%",
+                      "size": 50
+                    },
+                    "_transform_translateX_effect": "custom",
+                    "_transform_translateX": {
+                      "unit": "px",
+                      "size": -30
+                    },
+                    "_transform_translateY_effect": "custom",
+                    "_transform_translateY": {
+                      "unit": "px",
+                      "size": -30
+                    },
+                    "_hover_animation": "pulse"
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "hero013",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_align_items": "center",
+                "padding": {
+                  "unit": "px",
+                  "top": "20",
+                  "right": "30",
+                  "bottom": "20",
+                  "left": "30",
+                  "isLinked": false
+                },
+                "margin": {
+                  "unit": "px",
+                  "top": "-40",
+                  "right": "20",
+                  "bottom": "0",
+                  "left": "20",
+                  "isLinked": false
+                },
+                "background_background": "classic",
+                "background_color": "rgba(255,255,255,0.05)",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "border_color": "rgba(200, 162, 74, 0.2)",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "15",
+                  "right": "15",
+                  "bottom": "15",
+                  "left": "15",
+                  "isLinked": true
+                },
+                "_backdrop_filter_blur": {
+                  "unit": "px",
+                  "size": 10
+                }
+              },
+              "elements": [
+                {
+                  "id": "hero014",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Featured Movie",
+                    "header_size": "h6",
+                    "title_color": "#C8A24A",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Poppins",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 12
+                    },
+                    "typography_font_weight": "500",
+                    "typography_text_transform": "uppercase",
+                    "typography_letter_spacing": {
+                      "unit": "px",
+                      "size": 2
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "hero015",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Sridevi Bungalow",
+                    "header_size": "h4",
+                    "title_color": "#FFFFFF",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cinzel",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18
+                    },
+                    "typography_font_weight": "600"
+                  },
+                  "elements": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
