@@ -2,11 +2,20 @@
   "title": "Sridevi Bunglow Films - Header + Hero",
   "type": "page",
   "version": "0.4",
+  "elementor_version": "4.1.2",
   "page_settings": {
     "hide_title": "yes",
     "template": "elementor_canvas",
     "background_background": "classic",
-    "background_color": "#0B0B0B"
+    "background_color": "#0B0B0B",
+    "padding": {
+      "unit": "px",
+      "top": "0",
+      "right": "0",
+      "bottom": "0",
+      "left": "0"
+    },
+    "custom_css": "body.elementor-page { background-color: #0B0B0B !important; } .elementor-element { visibility: visible !important; opacity: 1 !important; } .e-con { display: flex !important; visibility: visible !important; } .e-con-inner { display: flex !important; visibility: visible !important; width: 100% !important; }"
   },
   "content": [
     {
@@ -34,8 +43,8 @@
           "size": 100
         },
         "_element_custom_width": {
-          "unit": "%",
-          "size": 100
+          "size": 100,
+          "unit": "%"
         },
         "sticky": "top",
         "sticky_on": [
@@ -47,11 +56,18 @@
         "motion_fx_motion_fx_scrolling": "yes",
         "background_color_sticky": "#0B0B0B",
         "container_type": "flex",
-        "_element_width": "auto",
+        "_element_width": "initial",
         "hide_desktop": "",
         "hide_tablet": "",
         "hide_mobile": "",
-        "overflow": "visible"
+        "overflow": "visible",
+        "flex_wrap": "nowrap",
+        "boxed_width": {
+          "size": 1400,
+          "unit": "px"
+        },
+        "layout": "full_width",
+        "custom_css": "selector { display: flex !important; visibility: visible !important; opacity: 1 !important; min-height: 50px; }"
       },
       "elements": [
         {
@@ -70,7 +86,17 @@
             "hide_desktop": "",
             "hide_tablet": "",
             "hide_mobile": "",
-            "overflow": "visible"
+            "overflow": "visible",
+            "flex_wrap": "nowrap",
+            "boxed_width": {
+              "size": 1400,
+              "unit": "px"
+            },
+            "_element_custom_width": {
+              "size": 100,
+              "unit": "%"
+            },
+            "position": "relative"
           },
           "elements": [
             {
@@ -86,6 +112,11 @@
                 "width": {
                   "unit": "px",
                   "size": 180
+                },
+                "_element_width": "initial",
+                "_element_custom_width": {
+                  "size": 100,
+                  "unit": "%"
                 }
               },
               "elements": []
@@ -108,7 +139,17 @@
             "hide_desktop": "",
             "hide_tablet": "",
             "hide_mobile": "",
-            "overflow": "visible"
+            "overflow": "visible",
+            "flex_wrap": "nowrap",
+            "boxed_width": {
+              "size": 1400,
+              "unit": "px"
+            },
+            "_element_custom_width": {
+              "size": 100,
+              "unit": "%"
+            },
+            "position": "relative"
           },
           "elements": [
             {
@@ -145,7 +186,12 @@
                   "Gallery",
                   "Founder",
                   "Contact"
-                ]
+                ],
+                "_element_width": "initial",
+                "_element_custom_width": {
+                  "size": 100,
+                  "unit": "%"
+                }
               },
               "elements": []
             },
@@ -197,6 +243,11 @@
                   "bottom": "2",
                   "left": "2",
                   "isLinked": true
+                },
+                "_element_width": "initial",
+                "_element_custom_width": {
+                  "size": 100,
+                  "unit": "%"
                 }
               },
               "elements": []
@@ -239,13 +290,25 @@
           "size": 0.6
         },
         "container_type": "flex",
-        "_element_width": "auto",
+        "_element_width": "initial",
         "hide_desktop": "",
         "hide_tablet": "",
         "hide_mobile": "",
         "overflow": "visible",
         "z_index": "",
-        "background_color": "#0B0B0B"
+        "background_color": "#0B0B0B",
+        "flex_wrap": "nowrap",
+        "boxed_width": {
+          "size": 1400,
+          "unit": "px"
+        },
+        "_element_custom_width": {
+          "size": 100,
+          "unit": "%"
+        },
+        "position": "relative",
+        "layout": "full_width",
+        "custom_css": "selector { display: flex !important; visibility: visible !important; opacity: 1 !important; min-height: 50px; }"
       },
       "elements": [
         {
@@ -269,7 +332,17 @@
             "hide_desktop": "",
             "hide_tablet": "",
             "hide_mobile": "",
-            "overflow": "visible"
+            "overflow": "visible",
+            "flex_wrap": "nowrap",
+            "boxed_width": {
+              "size": 1400,
+              "unit": "px"
+            },
+            "_element_custom_width": {
+              "size": 100,
+              "unit": "%"
+            },
+            "position": "relative"
           },
           "elements": [
             {
@@ -291,7 +364,13 @@
                 "typography_letter_spacing": {
                   "unit": "px",
                   "size": 5
-                }
+                },
+                "_element_width": "initial",
+                "_element_custom_width": {
+                  "size": 100,
+                  "unit": "%"
+                },
+                "custom_css": "selector .elementor-heading-title { color: inherit !important; visibility: visible !important; }"
               },
               "elements": []
             },
@@ -321,7 +400,13 @@
                 "typography_line_height": {
                   "unit": "em",
                   "size": 1.1
-                }
+                },
+                "_element_width": "initial",
+                "_element_custom_width": {
+                  "size": 100,
+                  "unit": "%"
+                },
+                "custom_css": "selector .elementor-heading-title { color: inherit !important; visibility: visible !important; }"
               },
               "elements": []
             },
@@ -341,7 +426,13 @@
                 "typography_line_height": {
                   "unit": "em",
                   "size": 1.8
-                }
+                },
+                "_element_width": "initial",
+                "_element_custom_width": {
+                  "size": 100,
+                  "unit": "%"
+                },
+                "custom_css": "selector .elementor-text-editor { color: inherit !important; visibility: visible !important; }"
               },
               "elements": []
             },
@@ -360,7 +451,17 @@
                 "hide_desktop": "",
                 "hide_tablet": "",
                 "hide_mobile": "",
-                "overflow": "visible"
+                "overflow": "visible",
+                "flex_wrap": "nowrap",
+                "boxed_width": {
+                  "size": 1400,
+                  "unit": "px"
+                },
+                "_element_custom_width": {
+                  "size": 100,
+                  "unit": "%"
+                },
+                "position": "relative"
               },
               "elements": [
                 {
@@ -412,7 +513,12 @@
                       "left": "2",
                       "isLinked": true
                     },
-                    "_hover_transition_duration": 300
+                    "_hover_transition_duration": 300,
+                    "_element_width": "initial",
+                    "_element_custom_width": {
+                      "size": 100,
+                      "unit": "%"
+                    }
                   },
                   "elements": []
                 },
@@ -465,7 +571,12 @@
                     },
                     "hover_color": "#0B0B0B",
                     "button_background_hover_color": "#C8A24A",
-                    "_hover_transition_duration": 300
+                    "_hover_transition_duration": 300,
+                    "_element_width": "initial",
+                    "_element_custom_width": {
+                      "size": 100,
+                      "unit": "%"
+                    }
                   },
                   "elements": []
                 }
@@ -491,7 +602,17 @@
             "hide_desktop": "",
             "hide_tablet": "",
             "hide_mobile": "",
-            "overflow": "visible"
+            "overflow": "visible",
+            "flex_wrap": "nowrap",
+            "boxed_width": {
+              "size": 1400,
+              "unit": "px"
+            },
+            "_element_custom_width": {
+              "size": 100,
+              "unit": "%"
+            },
+            "position": "relative"
           },
           "elements": [
             {
@@ -505,7 +626,17 @@
                 "hide_desktop": "",
                 "hide_tablet": "",
                 "hide_mobile": "",
-                "overflow": "visible"
+                "overflow": "visible",
+                "flex_direction": "column",
+                "flex_wrap": "nowrap",
+                "boxed_width": {
+                  "size": 1400,
+                  "unit": "px"
+                },
+                "_element_custom_width": {
+                  "size": 100,
+                  "unit": "%"
+                }
               },
               "elements": [
                 {
@@ -543,6 +674,11 @@
                     "motion_fx_translateY_speed": {
                       "unit": "px",
                       "size": 2
+                    },
+                    "_element_width": "initial",
+                    "_element_custom_width": {
+                      "size": 100,
+                      "unit": "%"
                     }
                   },
                   "elements": []
@@ -583,7 +719,12 @@
                       "unit": "px",
                       "size": -30
                     },
-                    "_hover_animation": "pulse"
+                    "_hover_animation": "pulse",
+                    "_element_width": "initial",
+                    "_element_custom_width": {
+                      "size": 100,
+                      "unit": "%"
+                    }
                   },
                   "elements": []
                 }
@@ -641,7 +782,17 @@
                 "hide_desktop": "",
                 "hide_tablet": "",
                 "hide_mobile": "",
-                "overflow": "visible"
+                "overflow": "visible",
+                "flex_wrap": "nowrap",
+                "boxed_width": {
+                  "size": 1400,
+                  "unit": "px"
+                },
+                "_element_custom_width": {
+                  "size": 100,
+                  "unit": "%"
+                },
+                "position": "relative"
               },
               "elements": [
                 {
@@ -663,7 +814,13 @@
                     "typography_letter_spacing": {
                       "unit": "px",
                       "size": 2
-                    }
+                    },
+                    "_element_width": "initial",
+                    "_element_custom_width": {
+                      "size": 100,
+                      "unit": "%"
+                    },
+                    "custom_css": "selector .elementor-heading-title { color: inherit !important; visibility: visible !important; }"
                   },
                   "elements": []
                 },
@@ -681,7 +838,13 @@
                       "unit": "px",
                       "size": 18
                     },
-                    "typography_font_weight": "600"
+                    "typography_font_weight": "600",
+                    "_element_width": "initial",
+                    "_element_custom_width": {
+                      "size": 100,
+                      "unit": "%"
+                    },
+                    "custom_css": "selector .elementor-heading-title { color: inherit !important; visibility: visible !important; }"
                   },
                   "elements": []
                 }
