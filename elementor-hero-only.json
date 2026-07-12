@@ -5,7 +5,7 @@
   "page_settings": {
     "template": "elementor_canvas",
     "background_background": "classic",
-    "background_color": "#0B0B0B",
+    "background_color": "#0A0A0A",
     "padding": {
       "unit": "px",
       "top": "0",
@@ -64,7 +64,7 @@
           "isLinked": false
         },
         "background_background": "classic",
-        "background_color": "#0B0B0B",
+        "background_color": "#0A0A0A",
         "background_overlay_background": "classic",
         "background_overlay_color": "#000000",
         "background_overlay_opacity": {
@@ -108,8 +108,8 @@
                 "typography_typography": "custom",
                 "typography_font_family": "Poppins",
                 "typography_font_size": {
-                  "unit": "px",
-                  "size": 14
+                  "size": 13,
+                  "unit": "px"
                 },
                 "typography_font_size_tablet": {
                   "unit": "px",
@@ -122,8 +122,8 @@
                 "typography_font_weight": "500",
                 "typography_text_transform": "uppercase",
                 "typography_letter_spacing": {
-                  "unit": "px",
-                  "size": 4
+                  "size": 2,
+                  "unit": "px"
                 }
               },
               "elements": []
@@ -139,8 +139,8 @@
                 "typography_typography": "custom",
                 "typography_font_family": "Cinzel",
                 "typography_font_size": {
-                  "unit": "px",
-                  "size": 72
+                  "size": 64,
+                  "unit": "px"
                 },
                 "typography_font_size_tablet": {
                   "unit": "px",
@@ -163,13 +163,13 @@
               "elType": "widget",
               "widgetType": "text-editor",
               "settings": {
-                "editor": "<p>Stories That Stay Forever.</p><p>&nbsp;</p><p>Creating unforgettable cinema through powerful storytelling, visionary filmmaking and world-class production.</p>",
-                "text_color": "#D8D8D8",
+                "editor": "<p style=\"color: #B8B8B8;\">Stories That Stay Forever.</p><p style=\"color: #B8B8B8;\">&nbsp;</p><p style=\"color: #B8B8B8;\">Creating unforgettable cinema through powerful storytelling, visionary filmmaking and world-class production.</p>",
+                "text_color": "#B8B8B8",
                 "typography_typography": "custom",
                 "typography_font_family": "Poppins",
                 "typography_font_size": {
-                  "unit": "px",
-                  "size": 16
+                  "size": 16,
+                  "unit": "px"
                 },
                 "typography_font_size_tablet": {
                   "unit": "px",
@@ -181,8 +181,8 @@
                 },
                 "typography_font_weight": "300",
                 "typography_line_height": {
-                  "unit": "em",
-                  "size": 1.8
+                  "size": 1.8,
+                  "unit": "em"
                 }
               },
               "elements": []
@@ -226,15 +226,15 @@
                       "size": 15
                     },
                     "typography_font_weight": "600",
-                    "button_text_color": "#0B0B0B",
+                    "button_text_color": "#0A0A0A",
                     "background_color": "#C8A24A",
                     "border_border": "none",
                     "border_radius": {
                       "unit": "px",
-                      "top": "4",
-                      "right": "4",
-                      "bottom": "4",
-                      "left": "4",
+                      "top": "8",
+                      "right": "8",
+                      "bottom": "8",
+                      "left": "8",
                       "isLinked": true
                     },
                     "button_padding": {
@@ -245,8 +245,20 @@
                       "left": "35",
                       "isLinked": false
                     },
-                    "hover_color": "#0B0B0B",
-                    "button_background_hover_color": "#b8922f"
+                    "hover_color": "#0A0A0A",
+                    "button_background_hover_color": "#D4AF37",
+                    "button_background_color": "#C8A24A",
+                    "color": "#0A0A0A",
+                    "button_border_radius": {
+                      "unit": "px",
+                      "top": "8",
+                      "right": "8",
+                      "bottom": "8",
+                      "left": "8",
+                      "isLinked": true
+                    },
+                    "button_hover_background_color": "#D4AF37",
+                    "button_hover_color": "#0A0A0A"
                   },
                   "elements": []
                 },
@@ -270,19 +282,19 @@
                     "border_border": "solid",
                     "border_width": {
                       "unit": "px",
-                      "top": "2",
-                      "right": "2",
-                      "bottom": "2",
-                      "left": "2",
+                      "top": "1",
+                      "right": "1",
+                      "bottom": "1",
+                      "left": "1",
                       "isLinked": true
                     },
                     "border_color": "#C8A24A",
                     "border_radius": {
                       "unit": "px",
-                      "top": "4",
-                      "right": "4",
-                      "bottom": "4",
-                      "left": "4",
+                      "top": "8",
+                      "right": "8",
+                      "bottom": "8",
+                      "left": "8",
                       "isLinked": true
                     },
                     "button_padding": {
@@ -293,8 +305,31 @@
                       "left": "35",
                       "isLinked": false
                     },
-                    "hover_color": "#FFFFFF",
-                    "button_border_hover_color": "#FFFFFF"
+                    "hover_color": "#0A0A0A",
+                    "button_border_hover_color": "#FFFFFF",
+                    "button_background_color": "transparent",
+                    "button_border_border": "solid",
+                    "button_border_width": {
+                      "unit": "px",
+                      "top": "1",
+                      "right": "1",
+                      "bottom": "1",
+                      "left": "1",
+                      "isLinked": true
+                    },
+                    "button_border_color": "#C8A24A",
+                    "button_border_radius": {
+                      "unit": "px",
+                      "top": "8",
+                      "right": "8",
+                      "bottom": "8",
+                      "left": "8",
+                      "isLinked": true
+                    },
+                    "button_hover_background_color": "#C8A24A",
+                    "button_hover_color": "#0A0A0A",
+                    "button_background_hover_color": "#C8A24A",
+                    "_hover_transition_duration": 300
                   },
                   "elements": []
                 }
@@ -372,7 +407,7 @@
                 },
                 "align": "center",
                 "primary_color": "#C8A24A",
-                "secondary_color": "#FFFFFF",
+                "secondary_color": "#0A0A0A",
                 "size": {
                   "unit": "px",
                   "size": 30
@@ -403,7 +438,8 @@
                 "_transform_translateY": {
                   "unit": "px",
                   "size": -35
-                }
+                },
+                "icon_color": "#C8A24A"
               },
               "elements": []
             },
@@ -428,13 +464,13 @@
                   "isLinked": false
                 },
                 "background_background": "classic",
-                "background_color": "rgba(255,255,255,0.08)",
+                "background_color": "#141414",
                 "border_radius": {
                   "unit": "px",
-                  "top": "12",
-                  "right": "12",
-                  "bottom": "12",
-                  "left": "12",
+                  "top": "16",
+                  "right": "16",
+                  "bottom": "16",
+                  "left": "16",
                   "isLinked": true
                 },
                 "margin": {
@@ -447,7 +483,25 @@
                 },
                 "position": "relative",
                 "z_index": 2,
-                "custom_css": "selector { backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px); border: 1px solid rgba(255,255,255,0.1); }"
+                "custom_css": "selector { backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px); border: 1px solid rgba(255,255,255,0.1); }",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "border_color": "rgba(200, 162, 74, 0.1)",
+                "box_shadow_box_shadow_type": "yes",
+                "box_shadow_box_shadow": {
+                  "horizontal": 0,
+                  "vertical": 4,
+                  "blur": 30,
+                  "spread": 0,
+                  "color": "rgba(0,0,0,0.3)"
+                }
               },
               "elements": [
                 {
@@ -461,14 +515,14 @@
                     "typography_typography": "custom",
                     "typography_font_family": "Poppins",
                     "typography_font_size": {
-                      "unit": "px",
-                      "size": 12
+                      "size": 13,
+                      "unit": "px"
                     },
                     "typography_font_weight": "500",
                     "typography_text_transform": "uppercase",
                     "typography_letter_spacing": {
-                      "unit": "px",
-                      "size": 2
+                      "size": 2,
+                      "unit": "px"
                     }
                   },
                   "elements": []
@@ -480,14 +534,14 @@
                   "settings": {
                     "title": "Sridevi Bungalow",
                     "header_size": "h5",
-                    "title_color": "#FFFFFF",
+                    "title_color": "#F0F0F0",
                     "typography_typography": "custom",
                     "typography_font_family": "Cinzel",
                     "typography_font_size": {
-                      "unit": "px",
-                      "size": 18
+                      "size": 20,
+                      "unit": "px"
                     },
-                    "typography_font_weight": "600"
+                    "typography_font_weight": "700"
                   },
                   "elements": []
                 }

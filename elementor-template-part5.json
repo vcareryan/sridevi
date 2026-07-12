@@ -6,7 +6,7 @@
   "page_settings": {
     "template": "elementor_canvas",
     "background_background": "classic",
-    "background_color": "#0B0B0B",
+    "background_color": "#0A0A0A",
     "padding": {
       "unit": "px",
       "top": "0",
@@ -14,7 +14,7 @@
       "bottom": "0",
       "left": "0"
     },
-    "custom_css": "body.elementor-page { background-color: #0B0B0B !important; } .elementor-element { visibility: visible !important; opacity: 1 !important; } .e-con { display: flex !important; visibility: visible !important; } .e-con-inner { display: flex !important; visibility: visible !important; width: 100% !important; }"
+    "custom_css": "body.elementor-page { background-color: #0A0A0A !important; } .elementor-element { visibility: visible !important; opacity: 1 !important; } .e-con { display: flex !important; visibility: visible !important; } .e-con-inner { display: flex !important; visibility: visible !important; width: 100% !important; }"
   },
   "content": [
     {
@@ -41,7 +41,7 @@
           "isLinked": false
         },
         "background_background": "classic",
-        "background_color": "#0B0B0B",
+        "background_color": "#0A0A0A",
         "container_type": "flex",
         "_element_width": "initial",
         "hide_desktop": "",
@@ -102,8 +102,8 @@
                 "typography_typography": "custom",
                 "typography_font_family": "Cinzel",
                 "typography_font_size": {
-                  "unit": "px",
-                  "size": 42
+                  "size": 42,
+                  "unit": "px"
                 },
                 "typography_font_size_tablet": {
                   "unit": "px",
@@ -113,7 +113,7 @@
                   "unit": "px",
                   "size": 26
                 },
-                "typography_font_weight": "700",
+                "typography_font_weight": "600",
                 "_element_width": "initial",
                 "_element_custom_width": {
                   "size": 100,
@@ -179,14 +179,14 @@
                 "button_text": "Send Message",
                 "button_size": "md",
                 "button_width": "100",
-                "button_color": "#0B0B0B",
+                "button_color": "#0A0A0A",
                 "button_background_color": "#C8A24A",
                 "button_border_radius": {
                   "unit": "px",
-                  "top": "30",
-                  "right": "30",
-                  "bottom": "30",
-                  "left": "30",
+                  "top": "8",
+                  "right": "8",
+                  "bottom": "8",
+                  "left": "8",
                   "isLinked": true
                 },
                 "button_typography_typography": "custom",
@@ -201,21 +201,22 @@
                   "unit": "px",
                   "size": 1
                 },
-                "button_hover_color": "#FFFFFF",
-                "button_hover_background_color": "transparent",
+                "button_hover_color": "#0A0A0A",
+                "button_hover_background_color": "#D4AF37",
                 "button_hover_border_color": "#C8A24A",
                 "button_hover_border_type": "solid",
-                "field_background_color": "rgba(255,255,255,0.05)",
-                "field_border_color": "rgba(200,162,74,0.2)",
-                "field_border_radius": "12",
+                "field_background_color": "#141414",
+                "field_border_color": "#2A2A2A",
+                "field_border_radius": 8,
                 "field_text_color": "#FFFFFF",
                 "field_placeholder_color": "rgba(216,216,216,0.5)",
-                "label_color": "#D8D8D8",
+                "label_color": "#B8B8B8",
                 "_element_width": "initial",
                 "_element_custom_width": {
                   "size": 100,
                   "unit": "%"
-                }
+                },
+                "field_focus_border_color": "#C8A24A"
               },
               "elements": []
             }
@@ -448,7 +449,7 @@
                   "settings": {
                     "title": "Home",
                     "header_size": "p",
-                    "title_color": "#D8D8D8",
+                    "title_color": "#777777",
                     "typography_typography": "custom",
                     "typography_font_family": "Poppins",
                     "typography_font_size": {
@@ -474,7 +475,7 @@
                   "settings": {
                     "title": "About",
                     "header_size": "p",
-                    "title_color": "#D8D8D8",
+                    "title_color": "#777777",
                     "typography_typography": "custom",
                     "typography_font_family": "Poppins",
                     "typography_font_size": {
@@ -499,7 +500,7 @@
                   "settings": {
                     "title": "Films",
                     "header_size": "p",
-                    "title_color": "#D8D8D8",
+                    "title_color": "#777777",
                     "typography_typography": "custom",
                     "typography_font_family": "Poppins",
                     "typography_font_size": {
@@ -524,7 +525,7 @@
                   "settings": {
                     "title": "Gallery",
                     "header_size": "p",
-                    "title_color": "#D8D8D8",
+                    "title_color": "#777777",
                     "typography_typography": "custom",
                     "typography_font_family": "Poppins",
                     "typography_font_size": {
@@ -549,7 +550,7 @@
                   "settings": {
                     "title": "Contact",
                     "header_size": "p",
-                    "title_color": "#D8D8D8",
+                    "title_color": "#777777",
                     "typography_typography": "custom",
                     "typography_font_family": "Poppins",
                     "typography_font_size": {
@@ -609,20 +610,21 @@
                     },
                     "view": "stacked",
                     "shape": "circle",
-                    "primary_color": "rgba(200,162,74,0.1)",
-                    "secondary_color": "#C8A24A",
+                    "primary_color": "#C8A24A",
+                    "secondary_color": "#0A0A0A",
                     "icon_size": {
                       "unit": "px",
                       "size": 14
                     },
                     "_hover_animation": "grow",
                     "primary_color_hover": "#C8A24A",
-                    "secondary_color_hover": "#0B0B0B",
+                    "secondary_color_hover": "#0A0A0A",
                     "_element_width": "initial",
                     "_element_custom_width": {
                       "size": 100,
                       "unit": "%"
-                    }
+                    },
+                    "icon_color": "#C8A24A"
                   },
                   "elements": []
                 },
@@ -637,20 +639,21 @@
                     },
                     "view": "stacked",
                     "shape": "circle",
-                    "primary_color": "rgba(200,162,74,0.1)",
-                    "secondary_color": "#C8A24A",
+                    "primary_color": "#C8A24A",
+                    "secondary_color": "#0A0A0A",
                     "icon_size": {
                       "unit": "px",
                       "size": 14
                     },
                     "_hover_animation": "grow",
                     "primary_color_hover": "#C8A24A",
-                    "secondary_color_hover": "#0B0B0B",
+                    "secondary_color_hover": "#0A0A0A",
                     "_element_width": "initial",
                     "_element_custom_width": {
                       "size": 100,
                       "unit": "%"
-                    }
+                    },
+                    "icon_color": "#C8A24A"
                   },
                   "elements": []
                 },
@@ -665,20 +668,21 @@
                     },
                     "view": "stacked",
                     "shape": "circle",
-                    "primary_color": "rgba(200,162,74,0.1)",
-                    "secondary_color": "#C8A24A",
+                    "primary_color": "#C8A24A",
+                    "secondary_color": "#0A0A0A",
                     "icon_size": {
                       "unit": "px",
                       "size": 14
                     },
                     "_hover_animation": "grow",
                     "primary_color_hover": "#C8A24A",
-                    "secondary_color_hover": "#0B0B0B",
+                    "secondary_color_hover": "#0A0A0A",
                     "_element_width": "initial",
                     "_element_custom_width": {
                       "size": 100,
                       "unit": "%"
-                    }
+                    },
+                    "icon_color": "#C8A24A"
                   },
                   "elements": []
                 },
@@ -693,20 +697,21 @@
                     },
                     "view": "stacked",
                     "shape": "circle",
-                    "primary_color": "rgba(200,162,74,0.1)",
-                    "secondary_color": "#C8A24A",
+                    "primary_color": "#C8A24A",
+                    "secondary_color": "#0A0A0A",
                     "icon_size": {
                       "unit": "px",
                       "size": 14
                     },
                     "_hover_animation": "grow",
                     "primary_color_hover": "#C8A24A",
-                    "secondary_color_hover": "#0B0B0B",
+                    "secondary_color_hover": "#0A0A0A",
                     "_element_width": "initial",
                     "_element_custom_width": {
                       "size": 100,
                       "unit": "%"
-                    }
+                    },
+                    "icon_color": "#C8A24A"
                   },
                   "elements": []
                 }
@@ -753,9 +758,9 @@
               "elType": "widget",
               "widgetType": "heading",
               "settings": {
-                "title": "\u00a9 2026 Sridevi Bunglow Films",
+                "title": "© 2026 Sridevi Bunglow Films",
                 "header_size": "p",
-                "title_color": "rgba(216,216,216,0.6)",
+                "title_color": "#777777",
                 "typography_typography": "custom",
                 "typography_font_family": "Poppins",
                 "typography_font_size": {
@@ -779,7 +784,7 @@
               "settings": {
                 "title": "Stories That Stay Forever",
                 "header_size": "p",
-                "title_color": "#C8A24A",
+                "title_color": "#888888",
                 "typography_typography": "custom",
                 "typography_font_family": "Cinzel",
                 "typography_font_size": {

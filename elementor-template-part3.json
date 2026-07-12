@@ -6,7 +6,7 @@
   "page_settings": {
     "template": "elementor_canvas",
     "background_background": "classic",
-    "background_color": "#0B0B0B",
+    "background_color": "#0A0A0A",
     "padding": {
       "unit": "px",
       "top": "0",
@@ -14,7 +14,7 @@
       "bottom": "0",
       "left": "0"
     },
-    "custom_css": "body.elementor-page { background-color: #0B0B0B !important; } .elementor-element { visibility: visible !important; opacity: 1 !important; } .e-con { display: flex !important; visibility: visible !important; } .e-con-inner { display: flex !important; visibility: visible !important; width: 100% !important; }"
+    "custom_css": "body.elementor-page { background-color: #0A0A0A !important; } .elementor-element { visibility: visible !important; opacity: 1 !important; } .e-con { display: flex !important; visibility: visible !important; } .e-con-inner { display: flex !important; visibility: visible !important; width: 100% !important; }"
   },
   "content": [
     {
@@ -42,7 +42,7 @@
           "isLinked": false
         },
         "background_background": "classic",
-        "background_color": "#0B0B0B",
+        "background_color": "#0A0A0A",
         "container_type": "flex",
         "_element_width": "initial",
         "hide_desktop": "",
@@ -171,8 +171,8 @@
                 "typography_typography": "custom",
                 "typography_font_family": "Cinzel",
                 "typography_font_size": {
-                  "unit": "px",
-                  "size": 38
+                  "size": 42,
+                  "unit": "px"
                 },
                 "typography_font_size_tablet": {
                   "unit": "px",
@@ -182,7 +182,7 @@
                   "unit": "px",
                   "size": 24
                 },
-                "typography_font_weight": "700",
+                "typography_font_weight": "600",
                 "typography_line_height": {
                   "unit": "em",
                   "size": 1.2
@@ -205,12 +205,12 @@
                 "header_size": "h5",
                 "title_color": "#C8A24A",
                 "typography_typography": "custom",
-                "typography_font_family": "Poppins",
+                "typography_font_family": "Cinzel",
                 "typography_font_size": {
-                  "unit": "px",
-                  "size": 16
+                  "size": 20,
+                  "unit": "px"
                 },
-                "typography_font_weight": "500",
+                "typography_font_weight": "700",
                 "typography_text_transform": "uppercase",
                 "typography_letter_spacing": {
                   "unit": "px",
@@ -231,23 +231,24 @@
               "widgetType": "text-editor",
               "settings": {
                 "editor": "A visionary filmmaker and entrepreneur, Chandrasekhar Sudhir Kumar founded Sridevi Bunglow Films with a passion for creating meaningful cinema that resonates with audiences worldwide. With years of experience in the entertainment industry, he brings together creative excellence and business acumen to produce films of the highest quality.",
-                "text_color": "#D8D8D8",
+                "text_color": "#B8B8B8",
                 "typography_typography": "custom",
                 "typography_font_family": "Poppins",
                 "typography_font_size": {
-                  "unit": "px",
-                  "size": 15
+                  "size": 16,
+                  "unit": "px"
                 },
                 "typography_line_height": {
-                  "unit": "em",
-                  "size": 1.8
+                  "size": 1.8,
+                  "unit": "em"
                 },
                 "_element_width": "initial",
                 "_element_custom_width": {
                   "size": 100,
                   "unit": "%"
                 },
-                "custom_css": "selector .elementor-text-editor { color: inherit !important; visibility: visible !important; }"
+                "custom_css": "selector .elementor-text-editor { color: inherit !important; visibility: visible !important; }",
+                "typography_font_weight": "300"
               },
               "elements": []
             },
@@ -303,7 +304,7 @@
                       "isLinked": false
                     },
                     "background_background": "classic",
-                    "background_color": "rgba(200,162,74,0.05)",
+                    "background_color": "#141414",
                     "border_border": "solid",
                     "border_width": {
                       "unit": "px",
@@ -313,13 +314,13 @@
                       "left": "1",
                       "isLinked": true
                     },
-                    "border_color": "rgba(200,162,74,0.2)",
+                    "border_color": "rgba(200, 162, 74, 0.1)",
                     "border_radius": {
                       "unit": "px",
-                      "top": "12",
-                      "right": "12",
-                      "bottom": "12",
-                      "left": "12",
+                      "top": "16",
+                      "right": "16",
+                      "bottom": "16",
+                      "left": "16",
                       "isLinked": true
                     },
                     "container_type": "flex",
@@ -337,7 +338,15 @@
                       "size": 100,
                       "unit": "%"
                     },
-                    "position": "relative"
+                    "position": "relative",
+                    "box_shadow_box_shadow_type": "yes",
+                    "box_shadow_box_shadow": {
+                      "horizontal": 0,
+                      "vertical": 4,
+                      "blur": 30,
+                      "spread": 0,
+                      "color": "rgba(0,0,0,0.3)"
+                    }
                   },
                   "elements": [
                     {
@@ -358,7 +367,7 @@
                           "size": 36
                         },
                         "typography_font_weight": "700",
-                        "title_color": "#D8D8D8",
+                        "title_color": "#B8B8B8",
                         "typography_title_typography": "custom",
                         "typography_title_font_family": "Poppins",
                         "typography_title_font_size": {
@@ -370,7 +379,9 @@
                         "_element_custom_width": {
                           "size": 100,
                           "unit": "%"
-                        }
+                        },
+                        "suffix_color": "#C8A24A",
+                        "prefix_color": "#C8A24A"
                       },
                       "elements": []
                     }
@@ -392,7 +403,7 @@
                       "isLinked": false
                     },
                     "background_background": "classic",
-                    "background_color": "rgba(200,162,74,0.05)",
+                    "background_color": "#141414",
                     "border_border": "solid",
                     "border_width": {
                       "unit": "px",
@@ -402,13 +413,13 @@
                       "left": "1",
                       "isLinked": true
                     },
-                    "border_color": "rgba(200,162,74,0.2)",
+                    "border_color": "rgba(200, 162, 74, 0.1)",
                     "border_radius": {
                       "unit": "px",
-                      "top": "12",
-                      "right": "12",
-                      "bottom": "12",
-                      "left": "12",
+                      "top": "16",
+                      "right": "16",
+                      "bottom": "16",
+                      "left": "16",
                       "isLinked": true
                     },
                     "container_type": "flex",
@@ -426,7 +437,15 @@
                       "size": 100,
                       "unit": "%"
                     },
-                    "position": "relative"
+                    "position": "relative",
+                    "box_shadow_box_shadow_type": "yes",
+                    "box_shadow_box_shadow": {
+                      "horizontal": 0,
+                      "vertical": 4,
+                      "blur": 30,
+                      "spread": 0,
+                      "color": "rgba(0,0,0,0.3)"
+                    }
                   },
                   "elements": [
                     {
@@ -447,7 +466,7 @@
                           "size": 36
                         },
                         "typography_font_weight": "700",
-                        "title_color": "#D8D8D8",
+                        "title_color": "#B8B8B8",
                         "typography_title_typography": "custom",
                         "typography_title_font_family": "Poppins",
                         "typography_title_font_size": {
@@ -459,7 +478,9 @@
                         "_element_custom_width": {
                           "size": 100,
                           "unit": "%"
-                        }
+                        },
+                        "suffix_color": "#C8A24A",
+                        "prefix_color": "#C8A24A"
                       },
                       "elements": []
                     }
@@ -481,7 +502,7 @@
                       "isLinked": false
                     },
                     "background_background": "classic",
-                    "background_color": "rgba(200,162,74,0.05)",
+                    "background_color": "#141414",
                     "border_border": "solid",
                     "border_width": {
                       "unit": "px",
@@ -491,13 +512,13 @@
                       "left": "1",
                       "isLinked": true
                     },
-                    "border_color": "rgba(200,162,74,0.2)",
+                    "border_color": "rgba(200, 162, 74, 0.1)",
                     "border_radius": {
                       "unit": "px",
-                      "top": "12",
-                      "right": "12",
-                      "bottom": "12",
-                      "left": "12",
+                      "top": "16",
+                      "right": "16",
+                      "bottom": "16",
+                      "left": "16",
                       "isLinked": true
                     },
                     "container_type": "flex",
@@ -515,7 +536,15 @@
                       "size": 100,
                       "unit": "%"
                     },
-                    "position": "relative"
+                    "position": "relative",
+                    "box_shadow_box_shadow_type": "yes",
+                    "box_shadow_box_shadow": {
+                      "horizontal": 0,
+                      "vertical": 4,
+                      "blur": 30,
+                      "spread": 0,
+                      "color": "rgba(0,0,0,0.3)"
+                    }
                   },
                   "elements": [
                     {
@@ -536,7 +565,7 @@
                           "size": 36
                         },
                         "typography_font_weight": "700",
-                        "title_color": "#D8D8D8",
+                        "title_color": "#B8B8B8",
                         "typography_title_typography": "custom",
                         "typography_title_font_family": "Poppins",
                         "typography_title_font_size": {
@@ -548,7 +577,9 @@
                         "_element_custom_width": {
                           "size": 100,
                           "unit": "%"
-                        }
+                        },
+                        "suffix_color": "#C8A24A",
+                        "prefix_color": "#C8A24A"
                       },
                       "elements": []
                     }
@@ -570,7 +601,7 @@
                       "isLinked": false
                     },
                     "background_background": "classic",
-                    "background_color": "rgba(200,162,74,0.05)",
+                    "background_color": "#141414",
                     "border_border": "solid",
                     "border_width": {
                       "unit": "px",
@@ -580,13 +611,13 @@
                       "left": "1",
                       "isLinked": true
                     },
-                    "border_color": "rgba(200,162,74,0.2)",
+                    "border_color": "rgba(200, 162, 74, 0.1)",
                     "border_radius": {
                       "unit": "px",
-                      "top": "12",
-                      "right": "12",
-                      "bottom": "12",
-                      "left": "12",
+                      "top": "16",
+                      "right": "16",
+                      "bottom": "16",
+                      "left": "16",
                       "isLinked": true
                     },
                     "container_type": "flex",
@@ -604,7 +635,15 @@
                       "size": 100,
                       "unit": "%"
                     },
-                    "position": "relative"
+                    "position": "relative",
+                    "box_shadow_box_shadow_type": "yes",
+                    "box_shadow_box_shadow": {
+                      "horizontal": 0,
+                      "vertical": 4,
+                      "blur": 30,
+                      "spread": 0,
+                      "color": "rgba(0,0,0,0.3)"
+                    }
                   },
                   "elements": [
                     {
@@ -625,7 +664,7 @@
                           "size": 36
                         },
                         "typography_font_weight": "700",
-                        "title_color": "#D8D8D8",
+                        "title_color": "#B8B8B8",
                         "typography_title_typography": "custom",
                         "typography_title_font_family": "Poppins",
                         "typography_title_font_size": {
@@ -637,7 +676,9 @@
                         "_element_custom_width": {
                           "size": 100,
                           "unit": "%"
-                        }
+                        },
+                        "suffix_color": "#C8A24A",
+                        "prefix_color": "#C8A24A"
                       },
                       "elements": []
                     }
@@ -669,7 +710,7 @@
           "isLinked": false
         },
         "background_background": "classic",
-        "background_color": "#0a0a0a",
+        "background_color": "#0F0F0F",
         "container_type": "flex",
         "_element_width": "initial",
         "hide_desktop": "",
@@ -699,8 +740,8 @@
             "typography_typography": "custom",
             "typography_font_family": "Cinzel",
             "typography_font_size": {
-              "unit": "px",
-              "size": 42
+              "size": 42,
+              "unit": "px"
             },
             "typography_font_size_tablet": {
               "unit": "px",
@@ -710,7 +751,7 @@
               "unit": "px",
               "size": 26
             },
-            "typography_font_weight": "700",
+            "typography_font_weight": "600",
             "_element_width": "initial",
             "_element_custom_width": {
               "size": 100,
@@ -771,7 +812,7 @@
                   "isLinked": false
                 },
                 "background_background": "classic",
-                "background_color": "rgba(255,255,255,0.03)",
+                "background_color": "#141414",
                 "border_border": "solid",
                 "border_width": {
                   "unit": "px",
@@ -781,13 +822,13 @@
                   "left": "1",
                   "isLinked": true
                 },
-                "border_color": "rgba(200,162,74,0.15)",
+                "border_color": "rgba(200, 162, 74, 0.1)",
                 "border_radius": {
                   "unit": "px",
-                  "top": "20",
-                  "right": "20",
-                  "bottom": "20",
-                  "left": "20",
+                  "top": "16",
+                  "right": "16",
+                  "bottom": "16",
+                  "left": "16",
                   "isLinked": true
                 },
                 "overflow": "hidden",
@@ -811,7 +852,15 @@
                   "size": 100,
                   "unit": "%"
                 },
-                "position": "relative"
+                "position": "relative",
+                "box_shadow_box_shadow_type": "yes",
+                "box_shadow_box_shadow": {
+                  "horizontal": 0,
+                  "vertical": 4,
+                  "blur": 30,
+                  "spread": 0,
+                  "color": "rgba(0,0,0,0.3)"
+                }
               },
               "elements": [
                 {
@@ -847,14 +896,14 @@
                     "typography_typography": "custom",
                     "typography_font_family": "Poppins",
                     "typography_font_size": {
-                      "unit": "px",
-                      "size": 12
+                      "size": 13,
+                      "unit": "px"
                     },
                     "typography_font_weight": "500",
                     "typography_text_transform": "uppercase",
                     "typography_letter_spacing": {
-                      "unit": "px",
-                      "size": 2
+                      "size": 2,
+                      "unit": "px"
                     },
                     "_padding": {
                       "unit": "px",
@@ -880,12 +929,12 @@
                   "settings": {
                     "title": "Sridevi Bungalow Creates Buzz in Bollywood",
                     "header_size": "h4",
-                    "title_color": "#FFFFFF",
+                    "title_color": "#F0F0F0",
                     "typography_typography": "custom",
                     "typography_font_family": "Cinzel",
                     "typography_font_size": {
-                      "unit": "px",
-                      "size": 18
+                      "size": 24,
+                      "unit": "px"
                     },
                     "typography_font_weight": "600",
                     "typography_line_height": {
@@ -934,12 +983,53 @@
                       "left": "25",
                       "isLinked": false
                     },
-                    "hover_color": "#FFFFFF",
+                    "hover_color": "#0A0A0A",
                     "_element_width": "initial",
                     "_element_custom_width": {
                       "size": 100,
                       "unit": "%"
-                    }
+                    },
+                    "button_background_color": "transparent",
+                    "border_border": "solid",
+                    "border_width": {
+                      "unit": "px",
+                      "top": "1",
+                      "right": "1",
+                      "bottom": "1",
+                      "left": "1",
+                      "isLinked": true
+                    },
+                    "border_color": "#C8A24A",
+                    "button_border_border": "solid",
+                    "button_border_width": {
+                      "unit": "px",
+                      "top": "1",
+                      "right": "1",
+                      "bottom": "1",
+                      "left": "1",
+                      "isLinked": true
+                    },
+                    "button_border_color": "#C8A24A",
+                    "border_radius": {
+                      "unit": "px",
+                      "top": "8",
+                      "right": "8",
+                      "bottom": "8",
+                      "left": "8",
+                      "isLinked": true
+                    },
+                    "button_border_radius": {
+                      "unit": "px",
+                      "top": "8",
+                      "right": "8",
+                      "bottom": "8",
+                      "left": "8",
+                      "isLinked": true
+                    },
+                    "button_hover_background_color": "#C8A24A",
+                    "button_hover_color": "#0A0A0A",
+                    "button_background_hover_color": "#C8A24A",
+                    "_hover_transition_duration": 300
                   },
                   "elements": []
                 }
@@ -960,7 +1050,7 @@
                   "isLinked": false
                 },
                 "background_background": "classic",
-                "background_color": "rgba(255,255,255,0.03)",
+                "background_color": "#141414",
                 "border_border": "solid",
                 "border_width": {
                   "unit": "px",
@@ -970,13 +1060,13 @@
                   "left": "1",
                   "isLinked": true
                 },
-                "border_color": "rgba(200,162,74,0.15)",
+                "border_color": "rgba(200, 162, 74, 0.1)",
                 "border_radius": {
                   "unit": "px",
-                  "top": "20",
-                  "right": "20",
-                  "bottom": "20",
-                  "left": "20",
+                  "top": "16",
+                  "right": "16",
+                  "bottom": "16",
+                  "left": "16",
                   "isLinked": true
                 },
                 "overflow": "hidden",
@@ -1000,7 +1090,15 @@
                   "size": 100,
                   "unit": "%"
                 },
-                "position": "relative"
+                "position": "relative",
+                "box_shadow_box_shadow_type": "yes",
+                "box_shadow_box_shadow": {
+                  "horizontal": 0,
+                  "vertical": 4,
+                  "blur": 30,
+                  "spread": 0,
+                  "color": "rgba(0,0,0,0.3)"
+                }
               },
               "elements": [
                 {
@@ -1036,14 +1134,14 @@
                     "typography_typography": "custom",
                     "typography_font_family": "Poppins",
                     "typography_font_size": {
-                      "unit": "px",
-                      "size": 12
+                      "size": 13,
+                      "unit": "px"
                     },
                     "typography_font_weight": "500",
                     "typography_text_transform": "uppercase",
                     "typography_letter_spacing": {
-                      "unit": "px",
-                      "size": 2
+                      "size": 2,
+                      "unit": "px"
                     },
                     "_padding": {
                       "unit": "px",
@@ -1069,12 +1167,12 @@
                   "settings": {
                     "title": "New Production House Sets Sights on Premium Content",
                     "header_size": "h4",
-                    "title_color": "#FFFFFF",
+                    "title_color": "#F0F0F0",
                     "typography_typography": "custom",
                     "typography_font_family": "Cinzel",
                     "typography_font_size": {
-                      "unit": "px",
-                      "size": 18
+                      "size": 24,
+                      "unit": "px"
                     },
                     "typography_font_weight": "600",
                     "typography_line_height": {
@@ -1123,12 +1221,53 @@
                       "left": "25",
                       "isLinked": false
                     },
-                    "hover_color": "#FFFFFF",
+                    "hover_color": "#0A0A0A",
                     "_element_width": "initial",
                     "_element_custom_width": {
                       "size": 100,
                       "unit": "%"
-                    }
+                    },
+                    "button_background_color": "transparent",
+                    "border_border": "solid",
+                    "border_width": {
+                      "unit": "px",
+                      "top": "1",
+                      "right": "1",
+                      "bottom": "1",
+                      "left": "1",
+                      "isLinked": true
+                    },
+                    "border_color": "#C8A24A",
+                    "button_border_border": "solid",
+                    "button_border_width": {
+                      "unit": "px",
+                      "top": "1",
+                      "right": "1",
+                      "bottom": "1",
+                      "left": "1",
+                      "isLinked": true
+                    },
+                    "button_border_color": "#C8A24A",
+                    "border_radius": {
+                      "unit": "px",
+                      "top": "8",
+                      "right": "8",
+                      "bottom": "8",
+                      "left": "8",
+                      "isLinked": true
+                    },
+                    "button_border_radius": {
+                      "unit": "px",
+                      "top": "8",
+                      "right": "8",
+                      "bottom": "8",
+                      "left": "8",
+                      "isLinked": true
+                    },
+                    "button_hover_background_color": "#C8A24A",
+                    "button_hover_color": "#0A0A0A",
+                    "button_background_hover_color": "#C8A24A",
+                    "_hover_transition_duration": 300
                   },
                   "elements": []
                 }
@@ -1149,7 +1288,7 @@
                   "isLinked": false
                 },
                 "background_background": "classic",
-                "background_color": "rgba(255,255,255,0.03)",
+                "background_color": "#141414",
                 "border_border": "solid",
                 "border_width": {
                   "unit": "px",
@@ -1159,13 +1298,13 @@
                   "left": "1",
                   "isLinked": true
                 },
-                "border_color": "rgba(200,162,74,0.15)",
+                "border_color": "rgba(200, 162, 74, 0.1)",
                 "border_radius": {
                   "unit": "px",
-                  "top": "20",
-                  "right": "20",
-                  "bottom": "20",
-                  "left": "20",
+                  "top": "16",
+                  "right": "16",
+                  "bottom": "16",
+                  "left": "16",
                   "isLinked": true
                 },
                 "overflow": "hidden",
@@ -1189,7 +1328,15 @@
                   "size": 100,
                   "unit": "%"
                 },
-                "position": "relative"
+                "position": "relative",
+                "box_shadow_box_shadow_type": "yes",
+                "box_shadow_box_shadow": {
+                  "horizontal": 0,
+                  "vertical": 4,
+                  "blur": 30,
+                  "spread": 0,
+                  "color": "rgba(0,0,0,0.3)"
+                }
               },
               "elements": [
                 {
@@ -1225,14 +1372,14 @@
                     "typography_typography": "custom",
                     "typography_font_family": "Poppins",
                     "typography_font_size": {
-                      "unit": "px",
-                      "size": 12
+                      "size": 13,
+                      "unit": "px"
                     },
                     "typography_font_weight": "500",
                     "typography_text_transform": "uppercase",
                     "typography_letter_spacing": {
-                      "unit": "px",
-                      "size": 2
+                      "size": 2,
+                      "unit": "px"
                     },
                     "_padding": {
                       "unit": "px",
@@ -1258,12 +1405,12 @@
                   "settings": {
                     "title": "Priya Prakash Varrier Signs Thriller Film",
                     "header_size": "h4",
-                    "title_color": "#FFFFFF",
+                    "title_color": "#F0F0F0",
                     "typography_typography": "custom",
                     "typography_font_family": "Cinzel",
                     "typography_font_size": {
-                      "unit": "px",
-                      "size": 18
+                      "size": 24,
+                      "unit": "px"
                     },
                     "typography_font_weight": "600",
                     "typography_line_height": {
@@ -1312,12 +1459,53 @@
                       "left": "25",
                       "isLinked": false
                     },
-                    "hover_color": "#FFFFFF",
+                    "hover_color": "#0A0A0A",
                     "_element_width": "initial",
                     "_element_custom_width": {
                       "size": 100,
                       "unit": "%"
-                    }
+                    },
+                    "button_background_color": "transparent",
+                    "border_border": "solid",
+                    "border_width": {
+                      "unit": "px",
+                      "top": "1",
+                      "right": "1",
+                      "bottom": "1",
+                      "left": "1",
+                      "isLinked": true
+                    },
+                    "border_color": "#C8A24A",
+                    "button_border_border": "solid",
+                    "button_border_width": {
+                      "unit": "px",
+                      "top": "1",
+                      "right": "1",
+                      "bottom": "1",
+                      "left": "1",
+                      "isLinked": true
+                    },
+                    "button_border_color": "#C8A24A",
+                    "border_radius": {
+                      "unit": "px",
+                      "top": "8",
+                      "right": "8",
+                      "bottom": "8",
+                      "left": "8",
+                      "isLinked": true
+                    },
+                    "button_border_radius": {
+                      "unit": "px",
+                      "top": "8",
+                      "right": "8",
+                      "bottom": "8",
+                      "left": "8",
+                      "isLinked": true
+                    },
+                    "button_hover_background_color": "#C8A24A",
+                    "button_hover_color": "#0A0A0A",
+                    "button_background_hover_color": "#C8A24A",
+                    "_hover_transition_duration": 300
                   },
                   "elements": []
                 }

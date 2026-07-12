@@ -4,7 +4,7 @@
   "version": "0.4",
   "page_settings": {
     "template": "elementor_canvas",
-    "background_background": "",
+    "background_background": "classic",
     "padding": {
       "unit": "px",
       "top": "0",
@@ -12,7 +12,8 @@
       "bottom": "0",
       "left": "0",
       "isLinked": true
-    }
+    },
+    "background_color": "#0A0A0A"
   },
   "content": [
     {
@@ -288,15 +289,15 @@
                   "size": 14
                 },
                 "typography_font_weight": "600",
-                "button_text_color": "#FFFFFF",
+                "button_text_color": "#0A0A0A",
                 "background_color": "#C8A24A",
                 "border_border": "none",
                 "border_radius": {
                   "unit": "px",
-                  "top": "4",
-                  "right": "4",
-                  "bottom": "4",
-                  "left": "4",
+                  "top": "8",
+                  "right": "8",
+                  "bottom": "8",
+                  "left": "8",
                   "isLinked": true
                 },
                 "button_padding": {
@@ -307,8 +308,20 @@
                   "left": "25",
                   "isLinked": false
                 },
-                "hover_color": "#FFFFFF",
-                "button_background_hover_color": "#b8922f"
+                "hover_color": "#0A0A0A",
+                "button_background_hover_color": "#D4AF37",
+                "button_background_color": "#C8A24A",
+                "color": "#0A0A0A",
+                "button_border_radius": {
+                  "unit": "px",
+                  "top": "8",
+                  "right": "8",
+                  "bottom": "8",
+                  "left": "8",
+                  "isLinked": true
+                },
+                "button_hover_background_color": "#D4AF37",
+                "button_hover_color": "#0A0A0A"
               },
               "elements": []
             }

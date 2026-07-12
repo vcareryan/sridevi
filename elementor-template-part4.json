@@ -6,7 +6,7 @@
   "page_settings": {
     "template": "elementor_canvas",
     "background_background": "classic",
-    "background_color": "#0B0B0B",
+    "background_color": "#0A0A0A",
     "padding": {
       "unit": "px",
       "top": "0",
@@ -14,7 +14,7 @@
       "bottom": "0",
       "left": "0"
     },
-    "custom_css": "body.elementor-page { background-color: #0B0B0B !important; } .elementor-element { visibility: visible !important; opacity: 1 !important; } .e-con { display: flex !important; visibility: visible !important; } .e-con-inner { display: flex !important; visibility: visible !important; width: 100% !important; }"
+    "custom_css": "body.elementor-page { background-color: #0A0A0A !important; } .elementor-element { visibility: visible !important; opacity: 1 !important; } .e-con { display: flex !important; visibility: visible !important; } .e-con-inner { display: flex !important; visibility: visible !important; width: 100% !important; }"
   },
   "content": [
     {
@@ -37,7 +37,7 @@
           "isLinked": false
         },
         "background_background": "classic",
-        "background_color": "#0B0B0B",
+        "background_color": "#0A0A0A",
         "container_type": "flex",
         "_element_width": "initial",
         "hide_desktop": "",
@@ -67,8 +67,8 @@
             "typography_typography": "custom",
             "typography_font_family": "Cinzel",
             "typography_font_size": {
-              "unit": "px",
-              "size": 42
+              "size": 42,
+              "unit": "px"
             },
             "typography_font_size_tablet": {
               "unit": "px",
@@ -78,7 +78,7 @@
               "unit": "px",
               "size": 26
             },
-            "typography_font_weight": "700",
+            "typography_font_weight": "600",
             "_element_width": "initial",
             "_element_custom_width": {
               "size": 100,
@@ -189,7 +189,7 @@
           "isLinked": false
         },
         "background_background": "classic",
-        "background_color": "#0a0a0a",
+        "background_color": "#0F0F0F",
         "container_type": "flex",
         "_element_width": "initial",
         "hide_desktop": "",
@@ -219,8 +219,8 @@
             "typography_typography": "custom",
             "typography_font_family": "Cinzel",
             "typography_font_size": {
-              "unit": "px",
-              "size": 42
+              "size": 42,
+              "unit": "px"
             },
             "typography_font_size_tablet": {
               "unit": "px",
@@ -230,7 +230,7 @@
               "unit": "px",
               "size": 26
             },
-            "typography_font_weight": "700",
+            "typography_font_weight": "600",
             "_element_width": "initial",
             "_element_custom_width": {
               "size": 100,
@@ -292,7 +292,7 @@
                   "isLinked": false
                 },
                 "background_background": "classic",
-                "background_color": "rgba(255,255,255,0.03)",
+                "background_color": "#141414",
                 "border_border": "solid",
                 "border_width": {
                   "unit": "px",
@@ -302,13 +302,13 @@
                   "left": "1",
                   "isLinked": true
                 },
-                "border_color": "rgba(200,162,74,0.15)",
+                "border_color": "rgba(200, 162, 74, 0.1)",
                 "border_radius": {
                   "unit": "px",
-                  "top": "20",
-                  "right": "20",
-                  "bottom": "20",
-                  "left": "20",
+                  "top": "16",
+                  "right": "16",
+                  "bottom": "16",
+                  "left": "16",
                   "isLinked": true
                 },
                 "container_type": "flex",
@@ -326,7 +326,15 @@
                   "size": 100,
                   "unit": "%"
                 },
-                "position": "relative"
+                "position": "relative",
+                "box_shadow_box_shadow_type": "yes",
+                "box_shadow_box_shadow": {
+                  "horizontal": 0,
+                  "vertical": 4,
+                  "blur": 30,
+                  "spread": 0,
+                  "color": "rgba(0,0,0,0.3)"
+                }
               },
               "elements": [
                 {
@@ -348,7 +356,8 @@
                     "_element_custom_width": {
                       "size": 100,
                       "unit": "%"
-                    }
+                    },
+                    "icon_color": "#C8A24A"
                   },
                   "elements": []
                 },
@@ -359,17 +368,17 @@
                   "settings": {
                     "editor": "A production house that truly understands the art of storytelling. Their commitment to quality and vision is unmatched in the industry.",
                     "align": "center",
-                    "text_color": "#D8D8D8",
+                    "text_color": "#B8B8B8",
                     "typography_typography": "custom",
                     "typography_font_family": "Poppins",
                     "typography_font_size": {
-                      "unit": "px",
-                      "size": 15
+                      "size": 16,
+                      "unit": "px"
                     },
                     "typography_font_style": "italic",
                     "typography_line_height": {
-                      "unit": "em",
-                      "size": 1.8
+                      "size": 1.8,
+                      "unit": "em"
                     },
                     "_margin": {
                       "unit": "px",
@@ -384,7 +393,8 @@
                       "size": 100,
                       "unit": "%"
                     },
-                    "custom_css": "selector .elementor-text-editor { color: inherit !important; visibility: visible !important; }"
+                    "custom_css": "selector .elementor-text-editor { color: inherit !important; visibility: visible !important; }",
+                    "typography_font_weight": "300"
                   },
                   "elements": []
                 },
@@ -426,14 +436,14 @@
                     "title": "Industry Critic",
                     "header_size": "h5",
                     "align": "center",
-                    "title_color": "#FFFFFF",
+                    "title_color": "#F0F0F0",
                     "typography_typography": "custom",
                     "typography_font_family": "Cinzel",
                     "typography_font_size": {
-                      "unit": "px",
-                      "size": 15
+                      "size": 20,
+                      "unit": "px"
                     },
-                    "typography_font_weight": "600",
+                    "typography_font_weight": "700",
                     "_element_width": "initial",
                     "_element_custom_width": {
                       "size": 100,
@@ -455,16 +465,21 @@
                     "typography_typography": "custom",
                     "typography_font_family": "Poppins",
                     "typography_font_size": {
-                      "unit": "px",
-                      "size": 12
+                      "size": 13,
+                      "unit": "px"
                     },
-                    "typography_font_weight": "400",
+                    "typography_font_weight": "500",
                     "_element_width": "initial",
                     "_element_custom_width": {
                       "size": 100,
                       "unit": "%"
                     },
-                    "custom_css": "selector .elementor-heading-title { color: inherit !important; visibility: visible !important; }"
+                    "custom_css": "selector .elementor-heading-title { color: inherit !important; visibility: visible !important; }",
+                    "typography_letter_spacing": {
+                      "size": 2,
+                      "unit": "px"
+                    },
+                    "typography_text_transform": "uppercase"
                   },
                   "elements": []
                 }
@@ -486,7 +501,7 @@
                   "isLinked": false
                 },
                 "background_background": "classic",
-                "background_color": "rgba(255,255,255,0.03)",
+                "background_color": "#141414",
                 "border_border": "solid",
                 "border_width": {
                   "unit": "px",
@@ -496,13 +511,13 @@
                   "left": "1",
                   "isLinked": true
                 },
-                "border_color": "rgba(200,162,74,0.15)",
+                "border_color": "rgba(200, 162, 74, 0.1)",
                 "border_radius": {
                   "unit": "px",
-                  "top": "20",
-                  "right": "20",
-                  "bottom": "20",
-                  "left": "20",
+                  "top": "16",
+                  "right": "16",
+                  "bottom": "16",
+                  "left": "16",
                   "isLinked": true
                 },
                 "container_type": "flex",
@@ -520,7 +535,15 @@
                   "size": 100,
                   "unit": "%"
                 },
-                "position": "relative"
+                "position": "relative",
+                "box_shadow_box_shadow_type": "yes",
+                "box_shadow_box_shadow": {
+                  "horizontal": 0,
+                  "vertical": 4,
+                  "blur": 30,
+                  "spread": 0,
+                  "color": "rgba(0,0,0,0.3)"
+                }
               },
               "elements": [
                 {
@@ -542,7 +565,8 @@
                     "_element_custom_width": {
                       "size": 100,
                       "unit": "%"
-                    }
+                    },
+                    "icon_color": "#C8A24A"
                   },
                   "elements": []
                 },
@@ -553,17 +577,17 @@
                   "settings": {
                     "editor": "Working with Sridevi Bunglow Films has been an incredible experience. Their professionalism and creative vision set them apart from the rest.",
                     "align": "center",
-                    "text_color": "#D8D8D8",
+                    "text_color": "#B8B8B8",
                     "typography_typography": "custom",
                     "typography_font_family": "Poppins",
                     "typography_font_size": {
-                      "unit": "px",
-                      "size": 15
+                      "size": 16,
+                      "unit": "px"
                     },
                     "typography_font_style": "italic",
                     "typography_line_height": {
-                      "unit": "em",
-                      "size": 1.8
+                      "size": 1.8,
+                      "unit": "em"
                     },
                     "_margin": {
                       "unit": "px",
@@ -578,7 +602,8 @@
                       "size": 100,
                       "unit": "%"
                     },
-                    "custom_css": "selector .elementor-text-editor { color: inherit !important; visibility: visible !important; }"
+                    "custom_css": "selector .elementor-text-editor { color: inherit !important; visibility: visible !important; }",
+                    "typography_font_weight": "300"
                   },
                   "elements": []
                 },
@@ -620,14 +645,14 @@
                     "title": "Leading Actor",
                     "header_size": "h5",
                     "align": "center",
-                    "title_color": "#FFFFFF",
+                    "title_color": "#F0F0F0",
                     "typography_typography": "custom",
                     "typography_font_family": "Cinzel",
                     "typography_font_size": {
-                      "unit": "px",
-                      "size": 15
+                      "size": 20,
+                      "unit": "px"
                     },
-                    "typography_font_weight": "600",
+                    "typography_font_weight": "700",
                     "_element_width": "initial",
                     "_element_custom_width": {
                       "size": 100,
@@ -649,16 +674,21 @@
                     "typography_typography": "custom",
                     "typography_font_family": "Poppins",
                     "typography_font_size": {
-                      "unit": "px",
-                      "size": 12
+                      "size": 13,
+                      "unit": "px"
                     },
-                    "typography_font_weight": "400",
+                    "typography_font_weight": "500",
                     "_element_width": "initial",
                     "_element_custom_width": {
                       "size": 100,
                       "unit": "%"
                     },
-                    "custom_css": "selector .elementor-heading-title { color: inherit !important; visibility: visible !important; }"
+                    "custom_css": "selector .elementor-heading-title { color: inherit !important; visibility: visible !important; }",
+                    "typography_letter_spacing": {
+                      "size": 2,
+                      "unit": "px"
+                    },
+                    "typography_text_transform": "uppercase"
                   },
                   "elements": []
                 }
@@ -680,7 +710,7 @@
                   "isLinked": false
                 },
                 "background_background": "classic",
-                "background_color": "rgba(255,255,255,0.03)",
+                "background_color": "#141414",
                 "border_border": "solid",
                 "border_width": {
                   "unit": "px",
@@ -690,13 +720,13 @@
                   "left": "1",
                   "isLinked": true
                 },
-                "border_color": "rgba(200,162,74,0.15)",
+                "border_color": "rgba(200, 162, 74, 0.1)",
                 "border_radius": {
                   "unit": "px",
-                  "top": "20",
-                  "right": "20",
-                  "bottom": "20",
-                  "left": "20",
+                  "top": "16",
+                  "right": "16",
+                  "bottom": "16",
+                  "left": "16",
                   "isLinked": true
                 },
                 "container_type": "flex",
@@ -714,7 +744,15 @@
                   "size": 100,
                   "unit": "%"
                 },
-                "position": "relative"
+                "position": "relative",
+                "box_shadow_box_shadow_type": "yes",
+                "box_shadow_box_shadow": {
+                  "horizontal": 0,
+                  "vertical": 4,
+                  "blur": 30,
+                  "spread": 0,
+                  "color": "rgba(0,0,0,0.3)"
+                }
               },
               "elements": [
                 {
@@ -736,7 +774,8 @@
                     "_element_custom_width": {
                       "size": 100,
                       "unit": "%"
-                    }
+                    },
+                    "icon_color": "#C8A24A"
                   },
                   "elements": []
                 },
@@ -747,17 +786,17 @@
                   "settings": {
                     "editor": "The attention to detail and the passion for cinema is evident in every frame. Sridevi Bunglow Films is redefining independent filmmaking in India.",
                     "align": "center",
-                    "text_color": "#D8D8D8",
+                    "text_color": "#B8B8B8",
                     "typography_typography": "custom",
                     "typography_font_family": "Poppins",
                     "typography_font_size": {
-                      "unit": "px",
-                      "size": 15
+                      "size": 16,
+                      "unit": "px"
                     },
                     "typography_font_style": "italic",
                     "typography_line_height": {
-                      "unit": "em",
-                      "size": 1.8
+                      "size": 1.8,
+                      "unit": "em"
                     },
                     "_margin": {
                       "unit": "px",
@@ -772,7 +811,8 @@
                       "size": 100,
                       "unit": "%"
                     },
-                    "custom_css": "selector .elementor-text-editor { color: inherit !important; visibility: visible !important; }"
+                    "custom_css": "selector .elementor-text-editor { color: inherit !important; visibility: visible !important; }",
+                    "typography_font_weight": "300"
                   },
                   "elements": []
                 },
@@ -814,14 +854,14 @@
                     "title": "Film Director",
                     "header_size": "h5",
                     "align": "center",
-                    "title_color": "#FFFFFF",
+                    "title_color": "#F0F0F0",
                     "typography_typography": "custom",
                     "typography_font_family": "Cinzel",
                     "typography_font_size": {
-                      "unit": "px",
-                      "size": 15
+                      "size": 20,
+                      "unit": "px"
                     },
-                    "typography_font_weight": "600",
+                    "typography_font_weight": "700",
                     "_element_width": "initial",
                     "_element_custom_width": {
                       "size": 100,
@@ -843,16 +883,21 @@
                     "typography_typography": "custom",
                     "typography_font_family": "Poppins",
                     "typography_font_size": {
-                      "unit": "px",
-                      "size": 12
+                      "size": 13,
+                      "unit": "px"
                     },
-                    "typography_font_weight": "400",
+                    "typography_font_weight": "500",
                     "_element_width": "initial",
                     "_element_custom_width": {
                       "size": 100,
                       "unit": "%"
                     },
-                    "custom_css": "selector .elementor-heading-title { color: inherit !important; visibility: visible !important; }"
+                    "custom_css": "selector .elementor-heading-title { color: inherit !important; visibility: visible !important; }",
+                    "typography_letter_spacing": {
+                      "size": 2,
+                      "unit": "px"
+                    },
+                    "typography_text_transform": "uppercase"
                   },
                   "elements": []
                 }
