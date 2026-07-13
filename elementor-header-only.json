@@ -6,7 +6,7 @@
   "page_settings": {
     "template": "elementor_canvas",
     "background_background": "classic",
-    "background_color": "#0A0A0A",
+    "background_color": "#000000",
     "padding": {
       "unit": "px",
       "top": "0",
@@ -27,7 +27,7 @@
         "flex_justify_content": "center",
         "flex_align_items": "center",
         "background_background": "classic",
-        "background_color": "#0A0A0A",
+        "background_color": "#000000",
         "padding": {
           "unit": "px",
           "top": "20",
@@ -136,7 +136,8 @@
                       "unit": "px",
                       "size": 0.5
                     },
-                    "custom_css": "selector .elementor-heading-title:hover { color: #C8A24A !important; cursor: pointer; }"
+                    "border_border": "none",
+                    "custom_css": "selector .elementor-heading-title { border: none !important; background: none !important; padding: 0 !important; display: inline !important; } selector .elementor-heading-title:hover { color: #C8A24A !important; cursor: pointer; }"
                   },
                   "elements": []
                 },
@@ -159,7 +160,8 @@
                       "unit": "px",
                       "size": 0.5
                     },
-                    "custom_css": "selector .elementor-heading-title:hover { color: #C8A24A !important; cursor: pointer; }"
+                    "border_border": "none",
+                    "custom_css": "selector .elementor-heading-title { border: none !important; background: none !important; padding: 0 !important; display: inline !important; } selector .elementor-heading-title:hover { color: #C8A24A !important; cursor: pointer; }"
                   },
                   "elements": []
                 },
@@ -182,7 +184,8 @@
                       "unit": "px",
                       "size": 0.5
                     },
-                    "custom_css": "selector .elementor-heading-title:hover { color: #C8A24A !important; cursor: pointer; }"
+                    "border_border": "none",
+                    "custom_css": "selector .elementor-heading-title { border: none !important; background: none !important; padding: 0 !important; display: inline !important; } selector .elementor-heading-title:hover { color: #C8A24A !important; cursor: pointer; }"
                   },
                   "elements": []
                 },
@@ -205,7 +208,8 @@
                       "unit": "px",
                       "size": 0.5
                     },
-                    "custom_css": "selector .elementor-heading-title:hover { color: #C8A24A !important; cursor: pointer; }"
+                    "border_border": "none",
+                    "custom_css": "selector .elementor-heading-title { border: none !important; background: none !important; padding: 0 !important; display: inline !important; } selector .elementor-heading-title:hover { color: #C8A24A !important; cursor: pointer; }"
                   },
                   "elements": []
                 },
@@ -228,7 +232,8 @@
                       "unit": "px",
                       "size": 0.5
                     },
-                    "custom_css": "selector .elementor-heading-title:hover { color: #C8A24A !important; cursor: pointer; }"
+                    "border_border": "none",
+                    "custom_css": "selector .elementor-heading-title { border: none !important; background: none !important; padding: 0 !important; display: inline !important; } selector .elementor-heading-title:hover { color: #C8A24A !important; cursor: pointer; }"
                   },
                   "elements": []
                 },
@@ -251,7 +256,8 @@
                       "unit": "px",
                       "size": 0.5
                     },
-                    "custom_css": "selector .elementor-heading-title:hover { color: #C8A24A !important; cursor: pointer; }"
+                    "border_border": "none",
+                    "custom_css": "selector .elementor-heading-title { border: none !important; background: none !important; padding: 0 !important; display: inline !important; } selector .elementor-heading-title:hover { color: #C8A24A !important; cursor: pointer; }"
                   },
                   "elements": []
                 },
@@ -274,7 +280,8 @@
                       "unit": "px",
                       "size": 0.5
                     },
-                    "custom_css": "selector .elementor-heading-title:hover { color: #C8A24A !important; cursor: pointer; }"
+                    "border_border": "none",
+                    "custom_css": "selector .elementor-heading-title { border: none !important; background: none !important; padding: 0 !important; display: inline !important; } selector .elementor-heading-title:hover { color: #C8A24A !important; cursor: pointer; }"
                   },
                   "elements": []
                 }
