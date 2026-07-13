@@ -1,0 +1,164 @@
+{
+  "site": "sridevibunglowfilms.com",
+  "description": "Content mapped to the current business-style Elementor template sections",
+  "sections": {
+    "hero": {
+      "small_tag": "FILM PRODUCTION HOUSE",
+      "main_heading": {
+        "line_1": "Crafting unforgettable",
+        "line_2_animated": ["cinema", "stories", "experiences"]
+      },
+      "description": "An independent film production company dedicated to creating powerful cinema through visionary storytelling, world-class production values, and unforgettable narratives that stay forever.",
+      "stats_counter": [
+        { "value": "5+", "label": "Feature Films" },
+        { "value": "4", "label": "Languages" },
+        { "value": "10+", "label": "Years Experience" },
+        { "value": "3", "label": "Awards" }
+      ]
+    },
+    "services": {
+      "card_1": {
+        "title": "Film Production",
+        "description": "From script to screen, we bring stories to life with world-class cinematography, cutting-edge technology, and a team of industry-leading professionals dedicated to cinematic excellence."
+      },
+      "card_2": {
+        "title": "Post-Production",
+        "description": "State-of-the-art editing, color grading, VFX, sound design, and music composition \u2014 transforming raw footage into polished cinematic masterpieces ready for global audiences."
+      },
+      "card_3": {
+        "title": "Distribution & Marketing",
+        "description": "Strategic film distribution across theatrical, OTT platforms, and international markets. Premium marketing campaigns that create buzz and position films for maximum reach and impact."
+      },
+      "card_4": {
+        "title": "Talent Management",
+        "description": "Discovering and nurturing exceptional talent \u2014 actors, directors, writers, and technicians. Building creative partnerships that elevate storytelling and push creative boundaries."
+      }
+    },
+    "cta": {
+      "heading": "Transforming Stories Into Cinematic Masterpieces",
+      "subtext": "From concept to premiere \u2014 we bring powerful narratives to life on the silver screen."
+    },
+    "portfolio": {
+      "heading": "Our Films & Productions",
+      "subtext": "A curated collection of our cinematic work across genres, languages, and platforms.",
+      "featured_film": {
+        "quote_title": "Sridevi Bungalow \u2014 A psychological suspense thriller that challenges perceptions",
+        "description": "Sridevi Bungalow is a path-breaking psychological suspense thriller featuring Priya Prakash Varrier in the lead role, directed by Prasanth Mambully. The film explores complex themes of identity, fame, and obsession with masterful storytelling.",
+        "impact_label": "Box Office Impact",
+        "stats": {
+          "opening_weekend": "Strong",
+          "languages": "Hindi",
+          "runtime": "2h 15m"
+        }
+      }
+    },
+    "impact_benefits": {
+      "heading": "Why Sridevi Bunglow Films",
+      "subtext": "A production house built on passion, precision, and an unwavering commitment to storytelling excellence.",
+      "benefits": [
+        "Premium Production Quality",
+        "Multi-Language Expertise (Hindi, Malayalam, Tamil, Telugu)",
+        "Award-Winning Storytelling",
+        "Global Distribution Network",
+        "Industry-Leading Talent Partnerships",
+        "State-of-the-Art Technology"
+      ]
+    },
+    "pricing_packages": {
+      "heading": "Collaborate With Us",
+      "subtext": "Whether you're a filmmaker, investor, or brand \u2014 explore partnership opportunities with Sridevi Bunglow Films.",
+      "package_1": {
+        "name": "Script Submission",
+        "features": [
+          "Submit your screenplay",
+          "Initial review within 30 days",
+          "Feedback and guidance",
+          "Potential development deal"
+        ],
+        "price": "Free / No cost"
+      },
+      "package_2": {
+        "name": "Co-Production",
+        "features": [
+          "Joint production partnership",
+          "Shared creative vision",
+          "Combined resources & funding",
+          "Distribution support"
+        ],
+        "price": "Contact for details"
+      },
+      "package_3": {
+        "name": "Investment",
+        "features": [
+          "Film investment opportunities",
+          "Revenue sharing model",
+          "Premium project access",
+          "Executive producer credit"
+        ],
+        "price": "By invitation"
+      }
+    },
+    "testimonials": {
+      "heading": "What The Industry Says",
+      "testimonial_1": {
+        "quote": "A production house that truly understands the art of storytelling. Their commitment to quality and vision is unmatched in the industry.",
+        "author": "Film Critic, Times of India"
+      },
+      "testimonial_2": {
+        "quote": "Working with Sridevi Bunglow Films was a transformative experience. Their professionalism and creative excellence set a new standard in independent filmmaking.",
+        "author": "Priya Prakash Varrier, Lead Actress"
+      },
+      "testimonial_3": {
+        "quote": "The attention to detail and passion for cinema is evident in every frame. Sridevi Bunglow Films is redefining independent filmmaking in India.",
+        "author": "Prasanth Mambully, Director"
+      }
+    },
+    "faq": {
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "question": "What genres does Sridevi Bunglow Films produce?",
+          "answer": "We specialize in psychological thrillers, drama, and suspense. However, we are open to compelling stories across all genres that have the potential to create impact and resonate with audiences worldwide."
+        },
+        {
+          "question": "How can I submit a script or story idea?",
+          "answer": "You can submit your screenplay through our contact form. Our creative team reviews all submissions and responds within 30 days. We look for original, powerful stories with strong characters and unique perspectives."
+        },
+        {
+          "question": "Does Sridevi Bunglow Films work with new talent?",
+          "answer": "Absolutely. We believe in discovering fresh talent \u2014 actors, directors, writers, and technicians. If you have exceptional skill and passion for cinema, we'd love to hear from you."
+        },
+        {
+          "question": "In which languages do you produce films?",
+          "answer": "We produce films primarily in Hindi, with plans to expand into Malayalam, Tamil, and Telugu. Our vision is to create pan-Indian cinema that transcends language barriers."
+        },
+        {
+          "question": "How can I invest in or co-produce a film?",
+          "answer": "We welcome investment and co-production partnerships. Please reach out through our contact form with details about your interest, and our team will schedule a confidential discussion about current opportunities."
+        },
+        {
+          "question": "Where are Sridevi Bunglow Films movies distributed?",
+          "answer": "Our films are distributed across theatrical releases, major OTT platforms, and international markets. We work with top distribution partners to ensure maximum reach and audience engagement."
+        }
+      ]
+    },
+    "final_cta": {
+      "heading": "Ready to Create Something Extraordinary?",
+      "subtext": "Whether you have a story to tell, a film to produce, or a vision to bring to life \u2014 let's make cinema together.",
+      "button_text": "Get In Touch"
+    },
+    "footer": {
+      "company": "Sridevi Bunglow Films",
+      "tagline": "Stories That Stay Forever",
+      "copyright": "\u00a9 2026 Sridevi Bunglow Films. All Rights Reserved.",
+      "links": ["Home", "About", "Films", "Media", "Gallery", "Founder", "Contact"],
+      "social": ["Facebook", "Instagram", "YouTube", "IMDb"]
+    }
+  },
+  "brand_voice": {
+    "tone": "Premium, confident, cinematic, aspirational",
+    "avoid": "Casual language, emojis, exclamation marks, hard-sell tactics",
+    "use": "Elegant language, film industry terminology, powerful imagery",
+    "keywords": ["Cinematic", "storytelling", "vision", "masterpiece", "unforgettable", "powerful", "premium"]
+  }
+}
