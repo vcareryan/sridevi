@@ -1,0 +1,346 @@
+=========================================================
+SRIDEVI BUNGLOW FILMS - COMPLETE WEBSITE CONTENT
+=========================================================
+Instructions: Copy-paste each section's content into the
+matching area in Elementor. DO NOT change the layout.
+Only replace the TEXT content.
+=========================================================
+
+
+---------------------------------------------------------
+SECTION 1: HERO (FULL WIDTH DARK SECTION - TOP OF PAGE)
+---------------------------------------------------------
+Location: First full-screen section with dark background
+
+[Left Side Content]
+
+Small Gold Text Above Main Heading:
+FILM PRODUCTION HOUSE
+
+Main Large Heading (White, Bold):
+SRIDEVI
+BUNGLOW FILMS
+
+Paragraph Below Heading:
+Stories That Stay Forever. Creating unforgettable cinema through powerful storytelling, visionary filmmaking and world-class production.
+
+Button 1 (Gold Background):
+Explore Films
+
+Button 2 (Bordered/Outline):
+Meet The Producer
+
+[Right Side]
+Image: Movie poster of Sridevi Bungalow film
+Small Card Below Image:
+Label: FEATURED MOVIE
+Title: Sridevi Bungalow
+
+
+---------------------------------------------------------
+SECTION 2: WHO WE ARE (WITH IMAGE ON LEFT OR RIGHT)
+---------------------------------------------------------
+Location: Section with an image on one side and text on other
+
+Note: This section appears to be REPEATED 3 TIMES on your
+site. Keep only ONE and delete the duplicates.
+
+Small Tag / Label:
+Who We Are
+
+Heading:
+Stories That Stay Forever
+
+Paragraph:
+Sridevi Bunglow Films is an independent film production company founded by visionary producer Chandrasekhar Sudhir Kumar. We are dedicated to creating meaningful cinema across languages — combining compelling storytelling with premium production values to craft films that resonate with audiences worldwide and leave lasting impressions.
+
+Button:
+Discover Our Story
+
+Image: Use company logo or a behind-the-scenes film photo
+
+
+---------------------------------------------------------
+SECTION 3: HOW IT WORKS (4 STEPS/PHASES)
+---------------------------------------------------------
+Location: Section with numbered steps or process cards
+
+Small Tag / Label:
+Our Process
+
+Heading:
+From Script to Screen in Four Phases
+
+Step 1:
+Number: 01
+Title: Script Development
+Description: Every great film starts with a story. Our team works with writers to develop screenplays that captivate, challenge, and move audiences.
+
+Step 2:
+Number: 02
+Title: Pre-Production
+Description: Casting, location scouting, storyboarding, and crew assembly. Every detail planned to perfection before cameras roll.
+
+Step 3:
+Number: 03
+Title: Production
+Description: World-class cinematography and expert direction bring the vision to life with cutting-edge technology and creative excellence.
+
+Step 4:
+Number: 04
+Title: Post-Production and Release
+Description: Editing, VFX, sound design, and strategic distribution across theatrical, OTT platforms, and international markets.
+
+
+---------------------------------------------------------
+SECTION 4: WHY US (SPLIT CONTENT - TEXT AND IMAGE)
+---------------------------------------------------------
+Location: Section with heading, long text, and image
+
+Small Tag / Label:
+Why Sridevi Bunglow Films
+
+Main Heading:
+Redefining Independent Cinema with Visionary Storytelling
+
+Main Paragraph:
+We are more than a production house — we are storytellers driven by passion and precision. Every project is fueled by an unwavering commitment to quality, innovation, and the belief that cinema can transform perspectives. Our films do not just entertain — they leave lasting impressions and spark meaningful conversations.
+
+Sub-Heading:
+Visionary Leadership That Creates Impact
+
+Sub-Paragraph:
+Under the leadership of founder and producer Chandrasekhar Sudhir Kumar, Sridevi Bunglow Films has emerged as a bold new voice in Indian cinema — combining creative risk-taking with strategic production expertise.
+
+Stats/Features (if icons or numbers present):
+- 5+ Feature Films Produced
+- 4 Languages
+- 10+ Years Experience
+- 3 Awards
+
+Image: Photo of Chandrasekhar Sudhir Kumar or film set
+
+
+---------------------------------------------------------
+SECTION 5: SERVICES OVERVIEW (FULL WIDTH TEXT SECTION)
+---------------------------------------------------------
+Location: Section with large heading and paragraph
+
+Heading:
+A Complete Film Production Ecosystem
+
+Paragraph:
+From initial concept to worldwide distribution, Sridevi Bunglow Films provides end-to-end production services. Our integrated approach ensures creative consistency, production excellence, and maximum impact at every stage of filmmaking. We bring together the finest talent, cutting-edge technology, and strategic vision to deliver cinema that stands apart.
+
+Button (if present):
+Explore Our Work
+
+
+---------------------------------------------------------
+SECTION 6: TESTIMONIALS
+---------------------------------------------------------
+Location: Section with quote cards or slider
+
+Small Tag:
+Testimonials
+
+Heading:
+Voices From The Industry
+
+Sub-text:
+Hear what filmmakers, actors, and critics say about working with Sridevi Bunglow Films.
+
+Testimonial 1:
+Quote: "A production house that truly understands the art of storytelling. Their commitment to quality and vision is unmatched in the industry."
+Name: Film Critic
+Designation: Times of India
+
+Testimonial 2:
+Quote: "Working with Sridevi Bunglow Films was a career-defining experience. Their professionalism and creative energy set a new standard in independent filmmaking."
+Name: Priya Prakash Varrier
+Designation: Lead Actress, Sridevi Bungalow
+
+Testimonial 3:
+Quote: "The passion for cinema is evident in every decision they make. This team is redefining what independent production houses can achieve in India."
+Name: Prasanth Mambully
+Designation: Director, Sridevi Bungalow
+
+
+---------------------------------------------------------
+SECTION 7: WHAT WE OFFER (SERVICES LIST)
+---------------------------------------------------------
+Location: Section with service items or icon boxes
+
+Small Tag:
+Our Expertise
+
+Heading:
+Comprehensive Film Production Services
+
+Description:
+From feature films to short films, documentaries to web series — we offer a full spectrum of production services designed to bring every story to its fullest potential with uncompromising quality.
+
+Service Items:
+1. Feature Film Production
+2. Short Film and Web Series
+3. Music Videos and Ad Films
+4. Script Development and Consultation
+5. Casting and Talent Management
+6. Post-Production and VFX
+
+
+---------------------------------------------------------
+SECTION 8: PACKAGES / PRICING (4 CARDS)
+---------------------------------------------------------
+Location: Section with pricing cards (currently shows
+"Off-page SEO $79.99" etc. - REPLACE ALL)
+
+Section Heading:
+Collaborate With Us
+
+Card 1:
+Title: Script Submission
+Price: Free
+Features:
+- Submit your original screenplay
+- Professional review within 30 days
+- Detailed feedback and guidance
+- Development potential assessment
+Button: Submit Script
+
+Card 2:
+Title: Co-Production
+Price: Contact Us
+Features:
+- Joint production partnership
+- Shared creative vision
+- Combined resources and funding
+- Revenue sharing model
+Button: Discuss Partnership
+
+Card 3:
+Title: Film Investment
+Price: By Invitation
+Features:
+- Premium project access
+- Executive Producer credit
+- Revenue sharing returns
+- VIP premiere invitations
+Button: Express Interest
+
+Card 4:
+Title: Brand Integration
+Price: Custom
+Features:
+- In-film brand placement
+- Co-branded content creation
+- Premiere sponsorship
+- Cross-platform promotion
+Button: Contact Us
+
+
+---------------------------------------------------------
+SECTION 9: CAPABILITIES (TEXT WITH FEATURES)
+---------------------------------------------------------
+Location: Section after pricing cards
+
+Heading:
+World-Class Production Capabilities
+
+Paragraph:
+Equipped with the latest filmmaking technology and backed by a team of seasoned professionals, Sridevi Bunglow Films delivers cinema that meets international standards. From 4K cinematography to Dolby Atmos sound, from advanced VFX to premium color grading — every technical aspect is handled with precision and passion.
+
+Feature List (if bullet points or icons):
+- 4K and 8K Cinematography
+- Dolby Atmos Sound Design
+- Advanced VFX and CGI
+- Professional Color Grading
+- Original Score Composition
+- Multi-Language Dubbing
+- Global Distribution Network
+- Premium Marketing and PR
+
+
+---------------------------------------------------------
+SECTION 10: FINAL CTA (CALL TO ACTION - BOTTOM)
+---------------------------------------------------------
+Location: Last content section before footer
+
+Small Tag:
+Sridevi Bunglow Films
+
+Heading:
+Ready to Bring Your Story to Life?
+
+Paragraph:
+Whether you have a script, an idea, or a vision — we are here to turn it into unforgettable cinema. Let us collaborate and create something extraordinary together.
+
+Button 1:
+Get In Touch
+
+Button 2:
+View Our Films
+
+Image: Behind the scenes photo or app mockup
+
+
+---------------------------------------------------------
+FOOTER
+---------------------------------------------------------
+Location: Very bottom of page
+
+Company Name:
+Sridevi Bunglow Films
+
+Tagline:
+Stories That Stay Forever
+
+Copyright:
+2026 Sridevi Bunglow Films. All Rights Reserved.
+
+Navigation Links:
+Home
+About
+Films
+Media
+Gallery
+Founder
+Contact
+
+Social Media Links:
+Facebook: https://facebook.com/sridevibunglowfilms
+Instagram: https://instagram.com/sridevibunglowfilms
+YouTube: https://youtube.com/@sridevibunglowfilms
+IMDb: https://imdb.com/title/tt0000000
+
+Contact:
+Email: info@sridevibunglowfilms.com
+Location: Mumbai, India
+
+
+=========================================================
+IMPORTANT NOTES:
+=========================================================
+
+1. DO NOT change the layout or structure - only replace text
+
+2. The "Who We Are" section is currently DUPLICATED 3 times
+   on your site. Delete 2 of them and keep only 1.
+
+3. For SECTION 8 (Packages), replace:
+   "Off-page SEO" --> Co-Production
+   "$79.99" --> Contact Us
+   "Technical SEO" --> Film Investment
+   "$59.99" --> By Invitation
+   "Local SEO" --> Brand Integration
+   "$199.99" --> Custom
+
+4. All gold colored text should use: #C8A24A
+   All white headings: #FFFFFF
+   All body text: #D8D8D8
+   Background: #0A0A0A
+
+5. Font for headings: Cinzel
+   Font for body text: Poppins
+
+=========================================================
