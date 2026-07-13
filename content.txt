@@ -1,162 +1,183 @@
 SECTION 1 - HERO
-================
-
-Small Tag:
-FILM PRODUCTION HOUSE
+=================
 
 Main Heading Line 1:
-Crafting unforgettable
+Crafting Cinematic
 
 Animated Words (rotating):
-cinema
-stories
-experiences
+Masterpieces
+Experiences
+Legends
 
 Description:
-An independent film production company dedicated to creating powerful cinema through visionary storytelling, world-class production values, and unforgettable narratives that stay forever.
+An award-winning independent film production house creating powerful cinema through visionary storytelling, world-class production values, and narratives that transcend boundaries.
 
-Stats:
-5+ Feature Films
-4 Languages
-10+ Years Experience
-3 Awards
+Button 1:
+Explore Our Films
 
-
-SECTION 2 - SERVICES HEADING
-=============================
-
-Small Tag:
-HIGH-END SERVICES BUILT ON CREATIVE EXCELLENCE
-
-Section Heading:
-What We Do
+Button 2:
+Watch Showreel
 
 
-SECTION 2 - SERVICE CARDS (4 cards)
-====================================
-
-Card 1 Title:
-1. Film Production
-
-Card 1 Description:
-From script to screen, we bring stories to life with world-class cinematography, cutting-edge technology, and a team of industry-leading professionals dedicated to cinematic excellence.
-
-Card 2 Title:
-2. Post-Production
-
-Card 2 Description:
-State-of-the-art editing, color grading, VFX, sound design, and music composition — transforming raw footage into polished cinematic masterpieces ready for global audiences.
-
-Card 3 Title:
-3. Distribution & Marketing
-
-Card 3 Description:
-Strategic film distribution across theatrical, OTT platforms, and international markets. Premium marketing campaigns that create buzz and position films for maximum reach and impact.
-
-Card 4 Title:
-4. Talent Management
-
-Card 4 Description:
-Discovering and nurturing exceptional talent — actors, directors, writers, and technicians. Building creative partnerships that elevate storytelling and push creative boundaries.
-
-
-SECTION 3 - CTA BANNER
+SECTION 2 - WHO WE ARE
 ========================
 
-Heading:
-Transforming Stories Into Cinematic Masterpieces
-
-Subtext:
-From concept to premiere — we bring powerful narratives to life on the silver screen.
-
-Button:
-Watch Our Showreel
-
-
-SECTION 4 - PORTFOLIO HEADING
-===============================
-
 Small Tag:
-SELECTED FILMS AND PROJECT HIGHLIGHTS
+Who We Are
 
 Heading:
-Our Films & Productions
-
-Subtext:
-A curated collection of our cinematic work across genres, languages, and platforms.
-
-
-SECTION 4 - FEATURED PROJECT
-==============================
-
-Quote/Highlight:
-"Sridevi Bungalow — A psychological suspense thriller that challenges perceptions"
+Stories That Stay Forever
 
 Description:
-Sridevi Bungalow is a path-breaking psychological suspense thriller featuring Priya Prakash Varrier in the lead role, directed by Prasanth Mambully. The film explores complex themes of identity, fame, and obsession with masterful storytelling.
+Sridevi Bunglow Films is an independent film production company founded by Chandrasekhar Sudhir Kumar, dedicated to creating meaningful cinema across languages. We combine compelling storytelling with premium production values to craft films that resonate with audiences worldwide. Our vision is to redefine independent filmmaking in India through bold narratives, exceptional talent, and an unwavering commitment to cinematic excellence.
 
-Impact Label:
-Box Office Impact
-
-Stat 1:
-Opening Weekend: Strong
-
-Stat 2:
-Language: Hindi
-
-Stat 3:
-Runtime: 2h 15m
+Button:
+Learn More About Us
 
 
-SECTION 5 - BENEFITS
+SECTION 3 - HOW IT WORKS (4 Phases)
+=====================================
+
+Small Tag:
+How It Works
+
+Heading:
+From Script to Screen in 4 Phases
+
+Phase 1 Title:
+Script Development
+
+Phase 1 Description:
+Every great film begins with a powerful story. Our creative team works closely with writers to develop screenplays that captivate, challenge, and inspire audiences across the globe.
+
+Phase 2 Title:
+Pre-Production
+
+Phase 2 Description:
+Meticulous planning including casting, location scouting, storyboarding, budgeting, and assembling our world-class crew to ensure every detail is perfect before cameras roll.
+
+Phase 3 Title:
+Production & Filming
+
+Phase 3 Description:
+State-of-the-art cinematography, expert direction, and seamless coordination bring the script to life. We use cutting-edge technology and creative excellence on every set.
+
+Phase 4 Title:
+Post-Production & Release
+
+Phase 4 Description:
+Professional editing, color grading, VFX, sound design, and music composition followed by strategic distribution across theatrical, OTT, and international markets.
+
+
+SECTION 4 - WHY SRIDEVI BUNGLOW FILMS
+=======================================
+
+Small Tag:
+Why Sridevi Bunglow Films
+
+Heading:
+Redefining Independent Cinema with Visionary Storytelling
+
+Description:
+We are not just a production house — we are storytellers, dreamers, and creators who believe in the transformative power of cinema. Every project we undertake is driven by passion, precision, and an unwavering pursuit of excellence. Our films don't just entertain — they leave lasting impressions, spark conversations, and push the boundaries of creative filmmaking.
+
+Sub-Heading:
+Visionary Leadership That Creates Impact
+
+Sub-Description:
+Under the leadership of Chandrasekhar Sudhir Kumar, Sridevi Bunglow Films has established itself as a bold new voice in Indian cinema — combining creative risk-taking with strategic production expertise.
+
+Feature Points:
+- Award-Winning Productions
+- Multi-Language Expertise
+- Premium Production Quality
+- Global Distribution Network
+
+
+SECTION 5 - SERVICES OVERVIEW
+===============================
+
+Heading:
+A Complete Film Production Ecosystem
+
+Description:
+From initial concept to worldwide distribution, Sridevi Bunglow Films provides end-to-end production services. Our integrated approach ensures creative consistency, production efficiency, and maximum impact at every stage of filmmaking. We bring together the finest talent, cutting-edge technology, and strategic vision to deliver cinema that stands apart.
+
+Button:
+View Our Services
+
+
+SECTION 6 - TESTIMONIALS
+==========================
+
+Small Tag:
+Testimonials
+
+Heading:
+Voices From The Industry
+
+Description:
+Hear what filmmakers, actors, and critics say about working with Sridevi Bunglow Films.
+
+Testimonial 1:
+"A production house that truly understands the art of storytelling. Their commitment to quality and vision is unmatched in the industry. Every frame reflects their dedication to cinematic excellence."
+
+Testimonial 1 Name:
+Film Critic
+Testimonial 1 Role:
+Times of India
+
+Testimonial 2:
+"Working with Sridevi Bunglow Films was a transformative experience. Their professionalism, creative vision, and attention to detail set a new standard in independent filmmaking."
+
+Testimonial 2 Name:
+Priya Prakash Varrier
+Testimonial 2 Role:
+Lead Actress, Sridevi Bungalow
+
+Testimonial 3:
+"The passion for cinema is evident in every decision they make. Sridevi Bunglow Films is redefining what independent production houses can achieve in India."
+
+Testimonial 3 Name:
+Prasanth Mambully
+Testimonial 3 Role:
+Director, Sridevi Bungalow
+
+
+SECTION 7 - WHAT WE OFFER
+===========================
+
+Small Tag:
+What We Offer
+
+Heading:
+Comprehensive Film Production Services
+
+Description:
+From feature films to short films, documentaries to web series — we offer a full spectrum of production services designed to bring every story to its fullest potential with uncompromising quality.
+
+Service 1: Feature Film Production
+Service 2: Short Film & Documentary Production
+Service 3: Music Video & Ad Film Production
+Service 4: Script Development & Consultation
+Service 5: Casting & Talent Management
+Service 6: Post-Production & VFX
+
+
+SECTION 8 - PACKAGES
 ======================
 
 Heading:
-Why Sridevi Bunglow Films
-
-Subtext:
-A production house built on passion, precision, and an unwavering commitment to storytelling excellence.
-
-Benefit 1:
-Premium Production Quality
-
-Benefit 2:
-Multi-Language Expertise
-
-Benefit 3:
-Award-Winning Storytelling
-
-Benefit 4:
-Global Distribution Network
-
-Benefit 5:
-Industry-Leading Talent
-
-Benefit 6:
-State-of-the-Art Technology
-
-
-SECTION 6 - PRICING / COLLABORATION
-=====================================
-
-Heading:
-Collaborate With Us
-
-Subtext:
-Whether you are a filmmaker, investor, or brand — explore partnership opportunities with Sridevi Bunglow Films.
-
-Tab 1 Label: One-Time
-Tab 2 Label: Ongoing
+Collaboration Opportunities
 
 Package 1 Name:
 Script Submission
 
 Package 1 Features:
-Submit your screenplay
-Initial review within 30 days
-Professional feedback and guidance
-Potential development deal
-Access to our creative team
+- Submit your original screenplay
+- Professional review within 30 days
+- Detailed feedback report
+- Development potential assessment
 
 Package 1 Price:
 Free
@@ -164,31 +185,31 @@ Free
 Package 1 Button:
 Submit Script
 
+
 Package 2 Name:
 Co-Production
 
 Package 2 Features:
-Joint production partnership
-Shared creative vision
-Combined resources and funding
-Distribution support included
-Revenue sharing model
+- Joint production partnership
+- Shared creative control
+- Combined funding & resources
+- Revenue sharing model
 
 Package 2 Price:
-Contact Us
+Let's Talk
 
 Package 2 Button:
 Discuss Partnership
+
 
 Package 3 Name:
 Film Investment
 
 Package 3 Features:
-Film investment opportunities
-Revenue sharing model
-Premium project access
-Executive producer credit
-VIP premiere invitations
+- Premium project access
+- Executive Producer credit
+- Revenue sharing returns
+- VIP premiere invitations
 
 Package 3 Price:
 By Invitation
@@ -197,100 +218,64 @@ Package 3 Button:
 Express Interest
 
 
-SECTION 7 - TESTIMONIALS
+Package 4 Name:
+Brand Collaboration
+
+Package 4 Features:
+- In-film brand placement
+- Co-branded content creation
+- Premiere event sponsorship
+- Cross-platform promotion
+
+Package 4 Price:
+Custom
+
+Package 4 Button:
+Contact Us
+
+
+SECTION 9 - CAPABILITIES
 ==========================
 
 Heading:
-What The Industry Says
+World-Class Production Capabilities
 
-Subtext:
-Voices from the film industry about working with Sridevi Bunglow Films.
+Description:
+Equipped with the latest filmmaking technology and backed by a team of seasoned professionals, Sridevi Bunglow Films delivers cinema that meets international standards. From 4K cinematography to Dolby Atmos sound, from advanced VFX to premium color grading — every technical aspect is handled with precision and passion.
 
-Testimonial 1:
-"A production house that truly understands the art of storytelling. Their commitment to quality and vision is unmatched in the industry."
-
-Testimonial 1 Name:
-Film Critic
-
-Testimonial 1 Role:
-Times of India
-
-Testimonial 2:
-"Working with Sridevi Bunglow Films was a transformative experience. Their professionalism and creative excellence set a new standard in independent filmmaking."
-
-Testimonial 2 Name:
-Priya Prakash Varrier
-
-Testimonial 2 Role:
-Lead Actress, Sridevi Bungalow
-
-Testimonial 3:
-"The attention to detail and passion for cinema is evident in every frame. Sridevi Bunglow Films is redefining independent filmmaking in India."
-
-Testimonial 3 Name:
-Prasanth Mambully
-
-Testimonial 3 Role:
-Director, Sridevi Bungalow
+Capabilities List:
+- 4K & 8K Cinematography
+- Dolby Atmos Sound Design
+- Advanced VFX & CGI
+- Professional Color Grading
+- Original Music Composition
+- Multi-Language Dubbing
+- International Distribution
+- Digital Marketing & PR
 
 
-SECTION 8 - FAQ
-================
+SECTION 10 - FINAL CTA
+========================
+
+Small Tag:
+Sridevi Bunglow Films
 
 Heading:
-Frequently Asked Questions
+Ready to Bring Your Story to Life?
 
-Q1:
-What genres does Sridevi Bunglow Films produce?
-
-A1:
-We specialize in psychological thrillers, drama, and suspense. However, we are open to compelling stories across all genres that have the potential to create impact and resonate with audiences worldwide.
-
-Q2:
-How can I submit a script or story idea?
-
-A2:
-You can submit your screenplay through our contact form. Our creative team reviews all submissions and responds within 30 days. We look for original, powerful stories with strong characters and unique perspectives.
-
-Q3:
-Does Sridevi Bunglow Films work with new talent?
-
-A3:
-Absolutely. We believe in discovering fresh talent — actors, directors, writers, and technicians. If you have exceptional skill and passion for cinema, we would love to hear from you.
-
-Q4:
-In which languages do you produce films?
-
-A4:
-We produce films primarily in Hindi, with plans to expand into Malayalam, Tamil, and Telugu. Our vision is to create pan-Indian cinema that transcends language barriers.
-
-Q5:
-How can I invest in or co-produce a film?
-
-A5:
-We welcome investment and co-production partnerships. Please reach out through our contact form with details about your interest, and our team will schedule a confidential discussion about current opportunities.
-
-Q6:
-Where are Sridevi Bunglow Films movies distributed?
-
-A6:
-Our films are distributed across theatrical releases, major OTT platforms, and international markets. We work with top distribution partners to ensure maximum reach and audience engagement.
-
-
-SECTION 9 - FINAL CTA
-=======================
-
-Heading:
-Ready to Create Something Extraordinary?
-
-Subtext:
-Whether you have a story to tell, a film to produce, or a vision to bring to life — let us make cinema together.
+Description:
+Whether you have a script, an idea, or a vision — we are here to turn it into unforgettable cinema. Let us collaborate and create something extraordinary together.
 
 Button 1:
 Get In Touch
 
 Button 2:
 View Our Films
+
+Contact Info:
+Email: info@sridevibunglowfilms.com
+Location: Mumbai, India
+Website: www.sridevibunglowfilms.com
 
 
 FOOTER
@@ -305,33 +290,8 @@ Stories That Stay Forever
 Copyright:
 © 2026 Sridevi Bunglow Films. All Rights Reserved.
 
-Navigation Links:
-Home
-About
-Films
-Media
-Gallery
-Founder
-Contact
+Navigation:
+Home | About | Films | Media | Gallery | Founder | Contact
 
 Social Media:
-Facebook
-Instagram
-YouTube
-IMDb
-
-Address:
-Mumbai, India
-
-Email:
-info@sridevibunglowfilms.com
-
-
-BRAND VOICE NOTES
-==================
-
-Tone: Premium, confident, cinematic, aspirational
-Avoid: Casual language, slang, exclamation marks, hard-sell language
-Use: Elegant language, film industry terminology, powerful imagery
-Always capitalize: Sridevi Bunglow Films
-Tagline: Stories That Stay Forever
+Facebook | Instagram | YouTube | IMDb
